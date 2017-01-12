@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MeatTimes series
-description: videos, interactive, drawings
+title: MeatTimes
+description: series of video, drawing, interactive things
 img: /img/1.jpg
 ---
 
