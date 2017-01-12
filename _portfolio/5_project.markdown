@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: MeatTimes series
+description: videos, interactive, drawings
 img: /img/1.jpg
 ---
 
