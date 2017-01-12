@@ -13,9 +13,9 @@ I live in Seoul, South Korea. I was born in Busan(Korea) and had lived in there 
 
 I studied Sociology and ISC(Information Science and Culture) in Seoul National University. 
 
-I'm really into things related to Art and Technology and also have interests in the digital society, human-computer interaction, media art and design, digital activism, environment and ecology. 
+I'm interested in Art and Technology thesedays, so I'm about to apply to the master's course associated with that field. And I also have interests in the digital society, human-computer interaction, media art and design, digital activism, and environment and ecology. 
 
-I like cooking, drawing, dancing, skateboarding -though not so good at!, jumping and strolling around.  
+I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, jumping and strolling around. I'd like to try new things- whatever excites me. ;D
 
 I speak Korean, English and French(un peu! I'm still studying).
 
