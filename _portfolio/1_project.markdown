@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project
+title: Agreed.
 description: a project with a background image
 img: /img/12.jpg
 ---
