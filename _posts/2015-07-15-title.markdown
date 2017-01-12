@@ -1,8 +1,8 @@
 ---
 layout: post
-title: interactive CPR manikin
+title: Interactive CPR Manikin
 date: 2015-07-15 15:09:00
-description: a research and development for interactive manikin for CPR training
+description: A research and development for interactive manikin for CPR training
 ---
 This theme implements a built-in Jekyll feature, the use of Pygments, for sytanx highlighting. It supports more than 100 languages. This example is in C++. All you have to do is wrap your code in a liquid tag: 
 {% raw  %}
