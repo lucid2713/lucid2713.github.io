@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Mask_series of performances
-description: performances
+title: Mask
+description: series of performances
 img:
 redirect: https://vimeo.com/user38129979/videos
 ---
