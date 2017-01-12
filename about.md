@@ -7,13 +7,17 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Hi. My name is Min-a Kim. 
+Hi :> My name is Min-a Kim. 
 
-I live in South Korea. I studied Sociology and ISC(Information Science and Culture) in Seoul National University. 
+I live in Seoul, South Korea. I was born in Busan(Korea) and had lived in there until 19 years old.
+
+I studied Sociology and ISC(Information Science and Culture) in Seoul National University. 
 
 I'm really into things related to Art and Technology and also have interests in the digital society, human-computer interaction, media art and design, digital activism, environment and ecology. 
 
-I like cooking, drawing, dancing, skateboarding -though not so good at!, jumping and strolling around.  
+I like cooking, drawing, dancing, skateboarding -though not so good at!, jumping and strolling around.  
+
+I speak Korean, English and French(un peu! I'm still studying).
 
 Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder.
 
