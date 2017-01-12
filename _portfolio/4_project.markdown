@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MalMAL
+title: MALMAL
 description: interactive app art for iOS devices
 img: 
 ---
