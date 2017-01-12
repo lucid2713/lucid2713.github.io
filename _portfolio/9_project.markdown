@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interactive manikin for CPR training
+title: Interactive CPR manikin 
 description: research and development using Arduino
 img:
 
