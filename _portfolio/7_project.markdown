@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: Color Your Voice
+description: interacitve project using MAX MSP and Processing
 img:
 ---
 
