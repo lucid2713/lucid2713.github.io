@@ -9,7 +9,7 @@ permalink: /about/
 <br/>
 Hi :> My name is Min-a Kim. 
 
-I live in Seoul, South Korea. I was born in Busan(Korea) and had lived in there until 19 years old.
+I live in Seoul, South Korea. I was born in Busan(Korea) and had lived in there until 18 years old.
 
 I studied Sociology and ISC(Information Science and Culture) in Seoul National University. 
 
