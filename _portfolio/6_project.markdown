@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with no image
+title: Starry Night
+description: interactive drawing using Leap Motion and Processing
 img: 
 ---
 
