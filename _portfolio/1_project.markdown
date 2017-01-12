@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agreed.
-description: a project with a background image
+description: and installation using Arduino, a hidden camera
 img: /img/12.jpg
 ---
 
