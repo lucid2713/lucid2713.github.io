@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: another without an image
+title: MalMAL
+description: interactive app art for iOS devices
 img: 
 ---
 
