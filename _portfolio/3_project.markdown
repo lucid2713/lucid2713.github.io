@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project
+title: MalMal
 description: a project that redirects to another website
 img:
 redirect: https://vimeo.com/user38129979/videos
