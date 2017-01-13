@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Hi :> My name is Min-a Kim. 
+Hi, My name is Min-a Kim. 
 
 I live in Seoul, South Korea. I was born in Busan(Korea) and had lived in there until 18 years old.
 
@@ -15,16 +15,16 @@ I studied Sociology and ISC(Information Science and Culture) in Seoul National U
 
 I'm interested in Art and Technology thesedays, so I'm about to apply to the master's course associated with that field. And I also have interests in the digital society, human-computer interaction, media art and design, digital activism, and environment and ecology. 
 
-I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, jumping and strolling around. I'd like to try new things- whatever excites me. ;D
+I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, and strolling around. I'd like to try new things- whatever excites me. ;>
 
-I speak Korean, English and French(un peu! I'm still studying).
+I speak Korean, English and French(un peu! I'm studying).
 
 Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder.
 
 Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them.
 
 ***
-
+<br/>
 
 <h3> CV </h3>
 <ul>
