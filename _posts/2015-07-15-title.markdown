@@ -9,14 +9,14 @@ This research was conducted as a self-study by three students in the department 
 The study aims to improve user experiences in CPR training. We set the target user as people who are getting retraining, so that they can remind how to CPR more effectively. It is designed to help participants decide whether the CPR is needed or not in particular situations. For example, There are three situations : drunken, epilepsy and cardiac arrest. So participants should do CPR only when the manikin is on cardiac arrest situation. If he/she do CPR when the manikin is drunken or epilepsy state, the device will die. Also when the trainee make a good choice and then do CPR, it is checked if he/she press the chest appropriately(in matters of both depth and speed). In case of success, the manikin will be revived and became bright with a burst of applause. X)
 </p>
 Components : CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speaker
-<br/>
+<p>
 Description
 <ul>
 <li>LED: is for showing manikin's face color - dark when it is dying, bright when being saved, flushed when revived</li>
 <li>Pressure sensor : is made up of the velostat(conductive fabric) with foil for covering the area of manikin's chest</li>
 <li>Sound systems : 3 status of manikin(drunken/epilepsy/cardiac arrest), 2 kinds of 100bpm music during cpr, error sound(died), applause(success)</li>
 </ul>
-
+</p>
 Here is the Source Code
 <br/>
 Arduino source code 1: Setting sound systems and the status of manikin
