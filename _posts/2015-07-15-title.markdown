@@ -4,63 +4,296 @@ title: Interactive CPR Manikin
 date: 2015-07-15 15:09:00
 description: A research and development for interactive manikin for CPR training
 ---
-This theme implements a built-in Jekyll feature, the use of Pygments, for sytanx highlighting. It supports more than 100 languages. This example is in C++. All you have to do is wrap your code in a liquid tag:
-{% raw  %}
-{% highlight c++ %}  <br/> code code code <br/> {% endhighlight %}{% endraw %}
+This research was conducted as a self-study by three students in the department of Information Science and Culture. As one of them, I participated in the whole process of research and development during 4 month. (July to October, 2016)
+<p>
+The study aims to improve user experiences in CPR training. We set the target user as people who are getting retraining, so that they can remind how to CPR more effectively. It is designed to help participants decide whether the CPR is needed or not in particular situations. For example, There are three situations : drunken, epilepsy and cardiac arrest. So participants should do CPR only when the manikin is on cardiac arrest situation. If he/she do CPR when the manikin is drunken or epilepsy state, the device will die. Also when the trainee make a good choice and then do CPR, it is checked if he/she press the chest appropriately(in matters of both depth and speed). In case of success, the manikin will be revived and became bright with a burst of applause. X)
+</p>
+Components : CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speaker
+<br/>
+Description
+<ul>
+<li>LED: is for showing manikin's face color - dark when it is dying, bright when being saved, flushed when revived</li>
+<li>Pressure sensor : is made up of the velostat(conductive fabric) with foil for covering the area of manikin's chest</li>
+<li>Sound systems : 3 status of manikin(drunken/epilepsy/cardiac arrest), 2 kinds of 100bpm music during cpr, error sound(died), applause(success)</li>
+</ul>
 
-Arduino source code:
+Here is the Source Code
+<br/>
+Arduino source code 1: Setting sound systems and the status of manikin
 
 {% highlight c++ %}
 
-#include "Timer.h"
-#include "stdio"
+#include "stdio.h"
 
-// 마네킹의 진짜 상태 (상황설정)
+// Library: SPI, MP3, SD
+#include <SPI.h>
+#include <Adafruit_VS1053.h>
+#include <SD.h>
+
+//LED Library
+#include <Adafruit_NeoPixel.h>
+#ifdef __AVR__
+#include <avr/power.h>
+#endif
+
+//Set up Library Pins
+#define BREAKOUT_RESET  9
+#define BREAKOUT_CS     10
+#define BREAKOUT_DCS    8
+#define SHIELD_RESET  -1
+#define SHIELD_CS     7
+#define SHIELD_DCS    6
+#define CARDCS 4
+#define DREQ 3
+
+#define FACE_PIN 2
+#define CHEST_PIN 5
+
+#define PRESSURE_PIN A3
+#define MANIKINSTATE_PIN A0
+#define MANIKINSTATECONFIRM_PIN A1
+
+
+//Music player shield
+Adafruit_VS1053_FilePlayer musicPlayer =
+  Adafruit_VS1053_FilePlayer(SHIELD_RESET, SHIELD_CS, SHIELD_DCS, DREQ, CARDCS);
+
+//LED set
+Adafruit_NeoPixel point = Adafruit_NeoPixel(2, FACE_PIN, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel ring = Adafruit_NeoPixel(24, CHEST_PIN, NEO_GRB + NEO_KHZ800);
+
+
+//The real status of manikin (setting situations)
+boolean started = false;
 boolean isHeartAttack = false;
 boolean isEpilepsy = false;
 boolean isDrunk = false;
+boolean inAction = false;
+
 const int STATECOUNT = 3;
 
-// 사람이 행동을 취하는지 여부
-boolean takeAction = false;
-
-// 상태버튼 LED, 스피커, 타이머, 압박센서 변수 셋업
+// Setting up the status button, LED, speaker, timer and variables of pressure sensor
 int manikinState = 0;
 int manikinStateConfirm = 0;
-int ledColor[3] = {0,0,0};
+int ledColor[3] = {0, 0, 0};
 int sound = 0;
 int pressure = 0;
+int pressCount = 0;
 int hotime = 0; // hands-off time
+boolean action = false;
 
-// 타이머 관련
-int startTime = 0;
-int actionTime = 0;
-int timePast = 0;
+boolean startPlay = true;
+boolean counthelp = false;
+boolean counthelp2 = false;
 
-
-// 핀 설정
-const int PRESSURE_PIN = 2;
-const int MANIKINSTATE_PIN = 3;
-const int MANIKINSTATECONFIRM_PIN = 4;
-const int FACELED_PIN = 5;
-const int CHESTLED_PIN = 6;
+// Timer
+unsigned long startTime = 0;
+unsigned long actionTime = 0;
+unsigned long timePast = 0;
+unsigned long timeCount = 0;
 
 
 void setup() {
-  // 핀 셋업
+
+  //Sound
+  Serial.begin(9600);
+  Serial.println("Adafruit VS1053 Simple Test");
+  if (! musicPlayer.begin()) {
+    Serial.println(F("Couldn't find VS1053, do you have the right pins defined?"));
+    while (1);
+  }
+  Serial.println(F("VS1053 found"));
+
+  // sd-card setting
+  SD.begin(CARDCS);
+
+  // The lower the numer, the louder the sound
+  musicPlayer.setVolume(20, 20);
+
+  // audio playing
+  musicPlayer.useInterrupt(VS1053_FILEPLAYER_PIN_INT);  // DREQ int
+
+#if defined (__AVR_ATtiny85__)
+  if (F_CPU == 16000000) clock_prescale_set(clock_div_1);
+#endif
+
+  // Pin setup
   pinMode(PRESSURE_PIN, INPUT);
   pinMode(MANIKINSTATE_PIN, INPUT);
   pinMode(MANIKINSTATECONFIRM_PIN, INPUT);
-  pinMode(FACELED_PIN, OUTPUT);
-  pinMode(CHESTLED_PIN, OUTPUT);
 
-  // 초기 상황 고르기
-  while (manikinStateConfirm != 0) {
-    manikinState = (int) map(digitalRead(MANIKINSTATE_PIN), 0, 1024, 0, STATECOUNT);
+  point.begin();
+  point.show();
+  ring.begin();
+  ring.show();
+}
+
+void loop() {
+  // Choose initial status
+  if (!started) setState();
+  if (isHeartAttack) {
+    currentState(0);
+    if (millis() - startTime > 60000 && !inAction) dead();
+
+    if (takeAction()) {
+      inAction = true;
+      actionTime = millis();
+    }
+    if (inAction) {
+      musicPlay();
+      startPlay = false;
+      pressure = readFlex();
+      countPress(pressure);
+
+      //Show current state of pressure
+      for (int i = ring.numPixels() - 1; i >= 0; i--) {
+        ring.setPixelColor(i, ring.Color(0, 0, 0));
+        ring.show();
+      }
+      chestColor(pressure);
+      Serial.println(pressCount);
+      if (millis() - actionTime > 10000) dead();
+      if (pressCount > 30) recovery();
+    }
   }
+  else if (isEpilepsy) {
+    currentState(1);
+    if (millis() - startTime > 30000 && !inAction) recovery();
+    pressure = readFlex();
+    countPress(pressure);
+    if (pressCount > 4) hurt();
+  }
+  else if (isDrunk) {
+    currentState(2);
+    if (millis() - startTime > 30000 && !inAction) recovery();
+    pressure = readFlex();
+    countPress(pressure);
+    if (pressCount > 4) hurt();
+  }
+}
 
-  switch(manikinState) {
-    case 0: // 심정지가 맞을 때
+{% endhighlight %}
+<br/>
+
+Arduino source code 2: Setting the LED color for the face of manikin
+{% highlight c++ %}  
+
+void currentState(int state) {
+  if (state == 0) {//heartattack
+    cheekColor(point.Color(127, 0, 127));
+    //sound
+    if (!inAction && musicPlayer.playingMusic == false) {
+      musicPlayer.stopPlaying();
+      Serial.println(F("Playing track 005"));
+      musicPlayer.startPlayingFile("track005.mp4");
+    }
+  }
+  else if (state == 1) { //epilepsy
+    cheekColor(point.Color(127, 127, 127));
+    //sound
+    if (musicPlayer.playingMusic == false) {
+      musicPlayer.stopPlaying();
+      Serial.println(F("Playing track 004"));
+      musicPlayer.startPlayingFile("track004.mp3");
+    }
+  }
+  else if (state == 2) { //drunk
+    cheekColor(point.Color(250, 50, 50));
+    //sound
+    if (musicPlayer.playingMusic == false) {
+      musicPlayer.stopPlaying();
+      Serial.println(F("Playing track 003"));
+      musicPlayer.startPlayingFile("track003.mp3");
+    }
+  }
+}
+
+void musicPlay() {
+  if (musicPlayer.playingMusic == false || startPlay) {
+    musicPlayer.stopPlaying();
+
+    Serial.println(F("Playing track 002"));
+    musicPlayer.startPlayingFile("track002.mp3");
+  }
+}
+
+void recovery() {
+  cheekColor(point.Color(255, 0, 0));
+  //sound
+  musicPlayer.stopPlaying();
+  Serial.println(F("Playing track 006"));
+  musicPlayer.startPlayingFile("track006.mp3");
+  reset();
+
+}
+void hurt() {
+  cheekColor(point.Color(30, 30, 30));
+  //sound
+  musicPlayer.stopPlaying();
+  Serial.println(F("Playing track 007"));
+  musicPlayer.startPlayingFile("track007.mp3");
+  reset();
+}
+void dead() {
+  cheekColor(point.Color(0, 0, 0));
+  //sound
+  musicPlayer.stopPlaying();
+  Serial.println(F("Playing track 008"));
+  musicPlayer.startPlayingFile("track008.mp3");
+  reset();
+}
+
+void reset() {
+  isHeartAttack = false;
+  isEpilepsy = false;
+  isDrunk = false;
+  inAction = false;
+  started = false;
+  pressCount = 0;
+  Serial.println(String(millis()));
+  for (int i = ring.numPixels() - 1; i >= 0; i--) {
+    ring.setPixelColor(i, ring.Color(0, 0, 0));
+    point.setPixelColor(i, point.Color(0,0,0));
+  }
+  ring.show();
+  point.show();
+}
+
+void cheekColor(uint32_t c) {
+  for (int i = 0; i < point.numPixels(); i++) {
+    point.setPixelColor(i, c);
+    point.show();
+  }
+}
+
+void chestColor(int pressure) {
+  int converted = map(pressure, 0, 1023, 0, 24);
+  //Serial.println("converted:" + String(converted));
+  uint16_t i;
+  for (i = 0; i < converted; i++) {
+    ring.setPixelColor(i, ring.Color(127, 0, 0));
+    ring.show();
+    delay(1);
+  }
+}
+
+{% endhighlight %}{% endraw %}
+
+<br/>
+
+Arduino source code 3: Setting the pressure sensor of manikin
+{% highlight c++ %}  
+
+void setState() {
+  manikinStateConfirm = analogRead(MANIKINSTATECONFIRM_PIN);
+  while (manikinStateConfirm < 500) {
+    Serial.println(manikinStateConfirm);
+    manikinStateConfirm = analogRead(MANIKINSTATECONFIRM_PIN);
+    manikinState = (int) map(analogRead(MANIKINSTATE_PIN), 0, 1024, 0, STATECOUNT);
+    Serial.println(manikinState);
+  }
+  switch (manikinState) {
+    case 0: // cardiac arrest true
       isHeartAttack = true;
       break;
     case 1:
@@ -70,35 +303,39 @@ void setup() {
       isDrunk = true;
       break;
   }
-}
-
-void loop() {
+  started = true;
   startTime = millis();
+  Serial.println(String(startTime));
+}
 
-  // 심장정지가 맞을 때
-  if (isHeartAttack) {  
-      if (takeAction) {       
-      }
-      else {  
-      }
+int readFlex() {
+  int sensorpin = PRESSURE_PIN;
+  int value = analogRead(sensorpin);
+  Serial.println("pressure : " + String(value));
+  delay(1);
+  return value;
+}
+
+boolean takeAction() {
+  if (readFlex() > 900) {
+    action = true;
+  }
+  else {
+    action = false;
   }
 
-  // 심장정지가 아닐 때 (간질/ 술에 취함)
-  else {
-    if (isEpilepsy) {
-    }
-    else if (isDrunk) {
-    }    
-    else {
-      Serial.println("Error! No State!");
-    }
+  return action;
+}
 
-    // 심장정지가 아닐 때 행동을 취하면 실패 후 종료
-    if (takeAction) {  
-    }
-    else {  
-    }
+void countPress(int temp) {
+  if (temp > 900) counthelp = true;
+  if (temp < 500) counthelp2 = true;
+  if (counthelp && counthelp2) {
+    pressCount++;
+    counthelp = false;
+    counthelp2 = false;
   }
 }
 
-{% endhighlight %}
+
+{% endhighlight %}{% endraw %}
