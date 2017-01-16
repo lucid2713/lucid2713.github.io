@@ -4,6 +4,7 @@ title:  Graduation thesis on Sociology
 date:   2016-12-01 18:32:00
 description: Digital Fabrication Workshop - arts as well as a new social activity
 ---
+This is a graduation thesis on the department of <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a>(bachelor's degree). 
 
 <h3>디지털 제작 기술 워크숍 - 새로운 사회행동으로서의 예술</h3>
 <br/>
