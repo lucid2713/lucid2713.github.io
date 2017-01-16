@@ -25,9 +25,9 @@ I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, an
 <p>
 <ul>
 Interactive media projects on ISC
-<li>Pingpong Painting</li>
-<li>Color Your Voice</li>
-<li>Starry Night</li>
+<li>Pingpong Painting(interactive sports/game/drawing)</li>
+<li>Color Your Voice(interactive installation)</li>
+<li>Starry Night(interactive installation)</li>
 <li>MalMal(iOS App)</li>
 <br/>
 
@@ -39,13 +39,13 @@ Research/Design on ISC
 
 Research on Sociology
 <li>Research on New Art Activism and MAKE Workshops(thesis on Sociology)</li>
-<li>Research on Community Art in Eunpyeong District in Seoul, Korea(study of Sociology)</li>
+<li>Research on Community Art in Eunpyeong District in Seoul, Korea</li>
 <br/>
 
 Other works
 <li>SNU Hippie Generation(performance)</li>
-<li>Meat Times series</li>
-<li>Agreed.</li>
+<li>Meat Times series(videos etc)</li>
+<li>Agreed.(interactive installation)</li>
 <li>Mask series(performance)</li>
 <br/>
 
