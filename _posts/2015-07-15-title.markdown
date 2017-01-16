@@ -17,7 +17,7 @@ Description
 <li>Sound systems : 3 status of manikin(drunken/epilepsy/cardiac arrest), 2 kinds of 100bpm music during cpr, error sound(died), applause(success)</li>
 </ul>
 </p>
-Here is the Source Code
+Here are Source Codes
 <br/>
 Arduino source code 1: Setting sound systems and the status of manikin
 
