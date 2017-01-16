@@ -29,25 +29,30 @@ Interactive media projects on ISC
 <li>Color Your Voice</li>
 <li>Starry Night</li>
 <li>MalMal(iOS App)</li>
+<br/>
 
 Research/Design on ISC
 <li>A design for Internet Shopping Helper on Chrome extension</li>
 <li>Smart Shopping Bag and Cart(IoT research, thesis on ISC)</li>
 <li>Research and development for Interactive CPR Manikin</li>
+<br/>
 
 Research on Sociology
 <li>Research on New Art Activism and MAKE Workshops(thesis on Sociology)</li>
 <li>Research on Community Art in Eunpyeong District in Seoul, Korea(study of Sociology)</li>
+<br/>
 
 Other works
 <li>SNU Hippie Generation(performance)</li>
 <li>Meat Times series</li>
 <li>Agreed.</li>
 <li>Mask series(performance)</li>
+<br/>
 
 <a href="http://aiees.snu.ac.kr/greenleadership/website/index.php" target="blank">Green leadership Program</a>
 <li>Green leadership Certificate in Seoul National University</li>
 <li>Internship at Climate Change Center(NGO in Korea)</li>
+<br/>
 
 Exhibition
 <li>Exhibition in Amway Gallery</li>
