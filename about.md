@@ -7,45 +7,53 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Hi, My name is Min-a Kim. 
+Hi, My name is Min-a Kim.
 
 I live in Seoul, South Korea. I was born in Busan(Korea) and had lived in there until 18 years old.
 
-I studied Sociology and ISC(Information Science and Culture) in Seoul National University. 
+I studied Sociology and ISC(Information Science and Culture) in Seoul National University.
 
-I'm interested in Art and Technology thesedays, so I'm about to apply to the master's course associated with that field. And I also have interests in the digital society, human-computer interaction, media art and design, digital activism, and environment and ecology. 
+I'm interested in Art and Technology thesedays, so I'm about to apply to the master's course associated with that field. And I also have interests in the digital society, human-computer interaction, media art and design, digital activism, and environment and ecology.
 
-I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, and strolling around. I'd like to try new things- whatever excites me. ;>
+I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, and strolling around. I'd like to try new things- whatever excites me. :)
 
-I speak Korean, English and French(un peu! I'm studying).
-
-Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder.
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them.
 
 ***
 <br/>
 
 <h3> CV </h3>
+<p>
 <ul>
-<li>Interactive CPR Manikin</li>
-<li>Smart Shopping Bag and Cart(IoT research, thesis on ISC)</li>
-<li>A design for Internet Shopping Helper on Chrome extension</li>
+Interactive media projects on ISC
 <li>Pingpong Painting</li>
+<li>Color Your Voice</li>
+<li>Starry Night</li>
+<li>MalMal(iOS App)</li>
+
+Research/Design on ISC
+<li>A design for Internet Shopping Helper on Chrome extension</li>
+<li>Smart Shopping Bag and Cart(IoT research, thesis on ISC)</li>
+<li>Research and development for Interactive CPR Manikin</li>
+
+Research on Sociology
+<li>Research on New Art Activism and MAKE Workshops(thesis on Sociology)</li>
+<li>Research on Community Art in Eunpyeong District in Seoul, Korea(study of Sociology)</li>
+
+Other works
+<li>SNU Hippie Generation(performance)</li>
+<li>Meat Times series</li>
 <li>Agreed.</li>
 <li>Mask series(performance)</li>
-<li>Meat Times series</li>
-<li>MalMal(iOS App)</li>
-<li>Starry Night</li>
-<li>Color Your Voice</li>
-<li>Research on New Art Activism and MAKE Workshops(thesis on Sociology)</li>
-<li>SNU Hippie Generation(performance)</li>
-<li>Research on Community Art in Eunpyeong District in Seoul, Korea(study of Sociology)</li>
+
+<a href="http://aiees.snu.ac.kr/greenleadership/website/index.php" target="blank">Green leadership Program</a>
 <li>Green leadership Certificate in Seoul National University</li>
 <li>Internship at Climate Change Center(NGO in Korea)</li>
+
+Exhibition
 <li>Exhibition in Amway Gallery</li>
 <li>Exhibition in IdeaFactory, SNU</li>
 </ul>
+</p>
 
 <br/>
 <hr/>
