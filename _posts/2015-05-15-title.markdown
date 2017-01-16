@@ -6,7 +6,7 @@ description: Smart shopping bag and cart (Design planning for IoT)
 ---
 This is a graduation project on the department of <a href="http://isc.snu.ac.kr/" target="blank">Information Science and Culture</a>(bachelor's degree). <br/>
 I and another colleague together had researched and designed "smart shopping cart and smart shopping bag" as a theme for IoT related to shopping. <br/>
-This project had proceeded in the academic-industrial collaboration program, partnered with <a href"https://www.ldcc.co.kr/en/index.asp" target="blank">'Lotte data communication'</a>.
+This project had proceeded in the academic-industrial collaboration program, partnered with <a href="https://www.ldcc.co.kr/en/index.asp" target="blank">'Lotte data communication'</a>.
 
 
 
