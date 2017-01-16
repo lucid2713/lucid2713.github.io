@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interactive CPR Manikin
-date: 2016-10-10 15:09:00
+date: 2016-10-00 15:09:00
 description: A research and development for interactive manikin for CPR training
 ---
 This research was conducted as a self-study by three students in the department of Information Science and Culture. As one of them, I participated in the whole process of research and development during 4 month. (July to October, 2016)
@@ -277,7 +277,7 @@ void chestColor(int pressure) {
   }
 }
 
-{% endhighlight %}{% endraw %}
+{% endhighlight %}
 
 <br/>
 
@@ -338,4 +338,4 @@ void countPress(int temp) {
 }
 
 
-{% endhighlight %}{% endraw %}
+{% endhighlight %}
