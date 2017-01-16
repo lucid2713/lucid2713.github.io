@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  graduation project on ISC
+title: Graduation project on ISC
 date: 2017-01-12 21:01:00
 description: Smart shopping bag and cart (Design planning for IoT)
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Fingerstache four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. 
+This is a graduation project on the department of Information Science and Culture. I and another colleague together had researched and designed "smart shopping cart and smart shopping bag" as a theme for IoT related to shopping. <br/>
+This project had proceeded in the academic-industrial collaboration program, partnered with 'Lotte data communication'. 
+
 
 <div class="img_row">
 	<img class="col three" src="/img/9.jpg">
@@ -13,7 +15,7 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 	<img class="col three" src="{{ site.baseurl }}/img/9.jpg">
 </div>
 <div class="col three caption">
-	A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all. 
+	A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
 </div>
 <div class="img_row">
 	<img class="col two" src="/img/8.jpg">
