@@ -4,11 +4,11 @@ title: Interactive CPR Manikin
 date: 2015-07-15 15:09:00
 description: A research and development for interactive manikin for CPR training
 ---
-This theme implements a built-in Jekyll feature, the use of Pygments, for sytanx highlighting. It supports more than 100 languages. This example is in C++. All you have to do is wrap your code in a liquid tag: 
+This theme implements a built-in Jekyll feature, the use of Pygments, for sytanx highlighting. It supports more than 100 languages. This example is in C++. All you have to do is wrap your code in a liquid tag:
 {% raw  %}
 {% highlight c++ %}  <br/> code code code <br/> {% endhighlight %}{% endraw %}
 
-Produces something like this: 
+Produces something like this:
 
 {% highlight c++ %}
 
@@ -19,15 +19,106 @@ int main(int argc, char const *argv[])
 	cout << "input a string: ";
 	getline(cin, myString);
 	int length = myString.length();
-	
+
 	char charArray = new char * [length];
 
 	charArray = myString;
 	for(int i = 0; i < length; ++i){
 		cout << charArray[i] << " ";
 	}
-	
+
 	return 0;
+}
+
+*.*.*.*.*.
+
+#include "Timer.h"
+#include "stdio"
+
+// 마네킹의 진짜 상태 (상황설정)
+boolean isHeartAttack = false;
+boolean isEpilepsy = false;
+boolean isDrunk = false;
+const int STATECOUNT = 3;
+
+// 사람이 행동을 취하는지 여부
+boolean takeAction = false;
+
+// 상태버튼 LED, 스피커, 타이머, 압박센서 변수 셋업
+int manikinState = 0;
+int manikinStateConfirm = 0;
+int ledColor[3] = {0,0,0};
+int sound = 0;
+int pressure = 0;
+int hotime = 0; // hands-off time
+
+// 타이머 관련
+int startTime = 0;
+int actionTime = 0;
+int timePast = 0;
+
+
+// 핀 설정
+const int PRESSURE_PIN = 2;
+const int MANIKINSTATE_PIN = 3;
+const int MANIKINSTATECONFIRM_PIN = 4;
+const int FACELED_PIN = 5;
+const int CHESTLED_PIN = 6;
+
+
+void setup() {
+  // 핀 셋업
+  pinMode(PRESSURE_PIN, INPUT);
+  pinMode(MANIKINSTATE_PIN, INPUT);
+  pinMode(MANIKINSTATECONFIRM_PIN, INPUT);
+  pinMode(FACELED_PIN, OUTPUT);
+  pinMode(CHESTLED_PIN, OUTPUT);
+
+  // 초기 상황 고르기
+  while (manikinStateConfirm != 0) {
+    manikinState = (int) map(digitalRead(MANIKINSTATE_PIN), 0, 1024, 0, STATECOUNT);
+  }
+
+  switch(manikinState) {
+    case 0: // 심정지가 맞을 때
+      isHeartAttack = true;
+      break;
+    case 1:
+      isEpilepsy = true;
+      break;
+    case 2:
+      isDrunk = true;
+      break;
+  }
+}
+
+void loop() {
+  startTime = millis();
+
+  // 심장정지가 맞을 때
+  if (isHeartAttack) {  
+      if (takeAction) {       
+      }
+      else {  
+      }
+  }
+
+  // 심장정지가 아닐 때 (간질/ 술에 취함)
+  else {
+    if (isEpilepsy) {
+    }
+    else if (isDrunk) {
+    }    
+    else {
+      Serial.println("Error! No State!");
+    }
+
+    // 심장정지가 아닐 때 행동을 취하면 실패 후 종료
+    if (takeAction) {  
+    }
+    else {  
+    }
+  }
 }
 
 {% endhighlight %}
