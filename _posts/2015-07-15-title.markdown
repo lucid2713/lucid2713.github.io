@@ -8,29 +8,9 @@ This theme implements a built-in Jekyll feature, the use of Pygments, for sytanx
 {% raw  %}
 {% highlight c++ %}  <br/> code code code <br/> {% endhighlight %}{% endraw %}
 
-Produces something like this:
+Arduino source code:
 
 {% highlight c++ %}
-
-int main(int argc, char const *argv[])
-{
-	string myString;
-
-	cout << "input a string: ";
-	getline(cin, myString);
-	int length = myString.length();
-
-	char charArray = new char * [length];
-
-	charArray = myString;
-	for(int i = 0; i < length; ++i){
-		cout << charArray[i] << " ";
-	}
-
-	return 0;
-}
-
-*.*.*.*.*.
 
 #include "Timer.h"
 #include "stdio"
