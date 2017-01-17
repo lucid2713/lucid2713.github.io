@@ -2,7 +2,7 @@
 layout: post
 title: Mask
 description: series of performances
-img: /img/17.jpg
+img: /img/3.jpg
 redirect: https://vimeo.com/user38129979/videos
 ---
 

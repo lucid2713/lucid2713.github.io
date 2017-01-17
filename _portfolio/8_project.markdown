@@ -2,7 +2,7 @@
 layout: post
 title: SNU hippie generation
 description: performance about occupying the president's lawn in SNU
-img:
+img: /img/8.jpg
 
 ---
 
