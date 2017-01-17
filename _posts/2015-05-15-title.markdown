@@ -10,11 +10,11 @@ This project had proceeded in the academic-industrial collaboration program, par
 
 
 
-<div class="img_row">
-	<img class="col one" src="/img/10.jpg">
-</div>
+
+<img class="col one" src="/img/10.jpg">
+<br/>
 
 
-The storyboard of the final result. 
+The storyboard of the final result.
 
-<iframe width="640" height="360" src="https://youtu.be/SxaWsVJrnxM" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://youtu.be/SxaWsVJrnxM"></iframe>
