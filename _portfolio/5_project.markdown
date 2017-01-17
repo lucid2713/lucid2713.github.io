@@ -2,7 +2,7 @@
 layout: post
 title: MeatTimes
 description: series of video, drawing, interactive things
-img: /img/5.png
+img: 
 ---
 
 Meat Times series, 2012-
