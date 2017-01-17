@@ -2,7 +2,7 @@
 layout: post
 title: MALMAL
 description: interactive app art for iOS devices
-img: /img/4.png
+img: 
 redirect: https://projectintheclass.github.io/MinApp/
 ---
 
