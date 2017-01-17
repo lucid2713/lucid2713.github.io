@@ -28,7 +28,7 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/23.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/25.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	You can also have artistically styled 2/3 + 1/3 images, like these.
