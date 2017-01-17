@@ -11,24 +11,10 @@ This project had proceeded in the academic-industrial collaboration program, par
 
 
 <div class="img_row">
-	<img class="col three" src="/img/9.jpg">
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/9.jpg">
-</div>
-<div class="col three caption">
-	A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
-</div>
-<div class="img_row">
-	<img class="col two" src="/img/8.jpg">
 	<img class="col one" src="/img/10.jpg">
 </div>
 
-Slow-carb four dollar toast Helvetica pop-up. Kale chips next level literally trust fund Pitchfork. Jean shorts Pinterest beard, farm-to-table irony craft beer swag tofu 8-bit Banksy. Quinoa forage fanny pack, pug hashtag Echo Park heirloom Schlitz tote bag artisan Neutra mumblecore 90's shabby chic raw denim.
 
+The storyboard of the final result. 
 
-<div class="img_row">
-	<img class="col one" src="/img/11.jpg">
-	<img class="col one" src="/img/12.jpg">
-	<img class="col one" src="/img/7.jpg">
-</div>
+<iframe width="640" height="360" src="https://youtu.be/SxaWsVJrnxM" frameborder="0" allowfullscreen></iframe>
