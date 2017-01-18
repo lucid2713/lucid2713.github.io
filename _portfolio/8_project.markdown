@@ -15,16 +15,18 @@ SNU hippie generation, performance, 2012
 	<img class="col one" src="{{ site.baseurl }}/img/86.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Performance about occupying the president's lawn in the university.
 </div>
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/83.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	This image can also have a caption. It's like magic.
+	caption
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+One of my friend and I worked with it. The concept of this performance was hippie, kitsch, comic and occupy.
+There is a joke in my university about the central lawn(Believe It Or Not). ....
+So the lawn is called "the president's lawn", and the place is always restricted to come in. Therefore we intentionally get in the lawn and did some funny acts.
 
 
 <div class="img_row">
@@ -32,7 +34,7 @@ You can also put regular text between your rows of images. Say you wanted to wri
 	<img class="col one" src="{{ site.baseurl }}/img/81.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	caption
 </div>
 
 

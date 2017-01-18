@@ -14,16 +14,17 @@ Meat Times series, 2012-
 	<img class="col one" src="{{ site.baseurl }}/img/5.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Series of video, drawing, interactive things.
 </div>
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/51.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	This image can also have a caption. It's like magic.
+	caption
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+I have had interest in 'meat made in the factory' for years. So I keep thinking about these theme and trying various ways of expression. <br/>
+I considered of video, interactive installation and animation and tinkered with it until now(though low-level and not satisfying yet!).
 
 
 <div class="img_row">
@@ -31,7 +32,7 @@ You can also put regular text between your rows of images. Say you wanted to wri
 	<img class="col one" src="{{ site.baseurl }}/img/5.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	caption
 </div>
 
 
