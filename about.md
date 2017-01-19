@@ -22,7 +22,8 @@ I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, an
 <br/>
 
 <h4> CV </h4>
-<br/><br/>
+<br/>
+<p>
 **Interactive media projects on ISC**
 <ul>
 <li>Pingpong Painting(interactive sports/game/drawing)</li>
@@ -63,7 +64,7 @@ I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, an
 <li>Exhibition in Amway Gallery</li>
 <li>Exhibition in IdeaFactory, SNU</li>
 </ul>
-
+</p>
 
 <br/>
 <hr/>
