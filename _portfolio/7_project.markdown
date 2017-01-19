@@ -18,8 +18,8 @@ Color your voice, interactive installation, 2015
 
 
 The concept is 'express yourself by identifying your own color'. <br/>
-When participants speak through the microphone installed, computer receives data of voices such as frequency and tone. According to those figure, each face captured by the webcam is colored differently. <br/>
-Work with 2 other colleagues. I contributed to design and coding(Processing).<br/>
+When participants speak through the microphone installed, computer receives data of voices such as frequency and tone. According to those figure, each face captured by the webcam is colored differently. <br/><br/>
+Work with 2 other colleagues. I contributed to design and coding Processing.<br/>
 Videos, photos and more descriptions will be upload.
 
 
@@ -28,7 +28,7 @@ Videos, photos and more descriptions will be upload.
 	<img class="col one" src="{{ site.baseurl }}/img/7.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Participants can pick one of cards they're interested in, then read texts written back on it. The recitation becomes individual color. 
+	Participants can pick one of cards they're interested in, then read texts written back on it. The recitation becomes individual color.
 </div>
 
 

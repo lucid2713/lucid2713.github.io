@@ -24,8 +24,8 @@ Pingpong Painting, interactive installation, 2015
 </div>
 
 Worked with 2 other colleagues as a study project. We used the pingpong racket and balls but the way of play is much similar to the squash. <br/>
-The concept is 'playing game, workout and interactive drawing at the same time'. When we hit the ball toward the wall, a sensor attached on racket works and the Kinect detects positions of the ball. And these sensing data are converted to drawing and projected on the wall in real time. There is the time limit so after the game done, participants can take along their drawing outcome.<br/>
-I contributed to image design, coding Processing and installation. 
+The concept is 'playing game, workout and interactive drawing at the same time'.<br/> When we hit the ball toward the wall, a sensor attached on racket works and the Kinect detects positions of the ball. And these sensing data are converted to drawing and projected on the wall in real time. There is the time limit so after the game done, participants can take along their drawing outcome.<br/><br/>
+I contributed to image design, coding Processing and installation.
 
 
 <div class="img_row">
