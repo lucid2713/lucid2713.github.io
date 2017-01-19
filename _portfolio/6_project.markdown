@@ -28,13 +28,5 @@ Work with 3 other colleagues and I contributed to design and coding Processing.<
 more videos and photos will be upload.
 
 
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/61.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	caption
-</div>
-
 
 <br/><br/><br/>
