@@ -22,8 +22,8 @@ I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, an
 <br/>
 
 <h4> CV </h4>
-<br/>
 <p>
+
 Interactive media projects on ISC
 <ul>
 <li>Pingpong Painting(interactive sports/game/drawing)</li>
