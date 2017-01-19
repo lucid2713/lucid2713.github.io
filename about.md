@@ -24,25 +24,25 @@ I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, an
 <h4> CV </h4>
 <p>
 <ul>
-Interactive media projects on ISC
+_Interactive media projects on ISC_
 <li>Pingpong Painting(interactive sports/game/drawing)</li>
 <li>Color Your Voice(interactive installation)</li>
 <li>Starry Night(interactive installation)</li>
 <li>MalMal(iOS App)</li>
 <br/>
 
-Research/Design on ISC
+_Research/Design on ISC_
 <li>A design for Internet Shopping Helper on Chrome extension</li>
 <li>Smart Shopping Bag and Cart(IoT research, thesis on ISC)</li>
 <li>Research and development for Interactive CPR Manikin</li>
 <br/>
 
-Research on Sociology
+_Research on Sociology_
 <li>Research on New Art Activism and MAKE Workshops(thesis on Sociology)</li>
 <li>Research on Community Art in Eunpyeong District in Seoul, Korea</li>
 <br/>
 
-Other works
+_Other works_
 <li>SNU Hippie Generation(performance)</li>
 <li>Meat Times series(videos etc)</li>
 <li>Agreed.(interactive installation)</li>
@@ -54,7 +54,7 @@ Other works
 <li>Internship at Climate Change Center(NGO in Korea)</li>
 <br/>
 
-Exhibition
+_Exhibition_
 <li>Exhibition in Amway Gallery</li>
 <li>Exhibition in IdeaFactory, SNU</li>
 </ul>
