@@ -28,7 +28,8 @@ Videos, photos and more descriptions will be upload.
 	<img class="col one" src="{{ site.baseurl }}/img/7.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Participants can pick one of cards they're interested in, then read texts written back on it. The recitation becomes individual color.
+	Participants can pick one of cards they're interested in, then read texts written back on it. <br/>
+	The recitation becomes individual color.
 </div>
 
 
