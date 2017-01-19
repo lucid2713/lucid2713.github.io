@@ -2,7 +2,7 @@
 layout: post
 title: MeatTimes
 description: series of video, drawing, interactive things
-img: 
+img:
 ---
 
 Meat Times series, 2012-
@@ -20,7 +20,7 @@ Meat Times series, 2012-
 	<img class="col three" src="{{ site.baseurl }}/img/51.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	caption
+	captured from the video 'meat times 4'
 </div>
 
 I have had interest in 'meat made in the factory' for years. So I keep thinking about these theme and trying various ways of expression. <br/>
@@ -32,7 +32,7 @@ I considered of video, interactive installation and animation and tinkered with 
 	<img class="col one" src="{{ site.baseurl }}/img/5.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	caption
+	other pictures and videos will be added soon 
 </div>
 
 

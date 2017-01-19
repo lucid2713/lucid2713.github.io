@@ -20,10 +20,11 @@ Starry Night, interactive installation, 2015
 	<img class="col three" src="{{ site.baseurl }}/img/61.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	caption
+	captured
 </div>
 
-Work with 3 other colleagues. I contributed to design and coding(Processing).<br/>
+Using leap motion, we can sweep out stars of the night sky toward two kinds of cloud. One is pink-colored cloud(left) and the other is gray-colored could(right). When cloud get heavy, it falls down as flowered-rain(pink) or dust-rain(gray).<br/>
+Work with 3 other colleagues and I contributed to design and coding(Processing).<br/>
 Videos, photos and more descriptions will be upload.
 
 

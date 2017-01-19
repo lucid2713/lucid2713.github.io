@@ -21,7 +21,7 @@ SNU hippie generation, performance, 2012
 	<img class="col three" src="{{ site.baseurl }}/img/83.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	caption
+	The building behind is the administration building, where the president stays. 
 </div>
 
 One of my friend and I worked with it. The concept of this performance was hippie, kitsch, comic and occupy.
@@ -34,7 +34,7 @@ So the lawn is called "the president's lawn", and the place is always restricted
 	<img class="col one" src="{{ site.baseurl }}/img/81.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	caption
+	We made cartoons and poster.
 </div>
 
 
