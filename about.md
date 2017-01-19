@@ -23,7 +23,7 @@ I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, an
 
 <h4> CV </h4>
 <p>
-<h5>Interactive media projects on ISC</h5>
+**Interactive media projects on ISC**
 <ul>
 <li>Pingpong Painting(interactive sports/game/drawing)</li>
 <li>Color Your Voice(interactive installation)</li>
