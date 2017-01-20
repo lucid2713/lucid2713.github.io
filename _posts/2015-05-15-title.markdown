@@ -13,8 +13,8 @@ This project had proceeded in the academic-industrial collaboration program, par
 
 <img class="col three" src="/img/10.jpg" alt="" title="storyboard"/>
 <br/>
-
-
+<div class="col three caption">
 The storyboard of the final result.
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SxaWsVJrnxM" frameborder="0" allowfullscreen></iframe>
