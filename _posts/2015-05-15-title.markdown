@@ -17,4 +17,5 @@ This project had proceeded in the academic-industrial collaboration program, par
 The storyboard of the final result.
 </div>
 <br/><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SxaWsVJrnxM" frameborder="0" allowfullscreen></iframe>
+<p align="middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SxaWsVJrnxM" frameborder="0" allowfullscreen></iframe></p>
