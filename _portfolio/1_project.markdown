@@ -37,6 +37,9 @@ I contributed to installing the machine, coding Arduino, camera setting.
 <div class="col three caption">
 	Screen and Machine
 </div>
-
+<br/>
+<p align="middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RivHmjZklTI" frameborder="0" allowfullscreen></iframe>
+</p>
 
 <br/><br/><br/>
