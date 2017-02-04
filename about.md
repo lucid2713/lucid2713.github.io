@@ -11,7 +11,7 @@ Hi, My name is Min-a Kim.
 
 I was born in Busan, South Korea and had lived in there until 18 years old. Now I live in Seoul.
 
-I studied <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a> and ISC(<a href="http://isc.snu.ac.kr/" target="blank">Information Science and Culture</a>) in Seoul National University.
+I studied Sociology and ISC(Information Science and Culture) in Seoul National University.
 
 I'm highly interested in Art and Technology thesedays, so I'm about to apply to the master's course associated with that field. And I also have interests in the environment and ecology, movement and body, digital society, human-computer interaction, media art and design, digital activism and hacktivism.
 
@@ -32,14 +32,14 @@ Interactive media projects on ISC
 <li>MalMal(iOS App)</li>
 </ul>
 
-Research/Design on ISC
+Research/Design on <a href="http://isc.snu.ac.kr/" target="blank">ISC</a>
 <ul>
 <li>A design for Internet Shopping Helper on Chrome extension</li>
 <li>Smart Shopping Bag and Cart(IoT research, thesis on ISC)</li>
 <li>Research and development for Interactive CPR Manikin</li>
 </ul>
 
-Research on Sociology
+Research on <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a>
 <ul>
 <li>Research on New Art Activism and MAKE Workshops(thesis on Sociology)</li>
 <li>Research on Community Art in Eunpyeong District in Seoul, Korea</li>
