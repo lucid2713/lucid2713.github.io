@@ -34,7 +34,7 @@ Therefore the lawn has been called "the president's lawn", and the place is alwa
 	<img class="col one" src="{{ site.baseurl }}/img/81.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	We made cartoons and poster.
+	We made comics and poster.
 </div>
 
 
