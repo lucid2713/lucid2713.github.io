@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the cosmos
+title: The Cosmos
 date: 2017-01-12 18:04:00
 ---
 
@@ -12,4 +12,5 @@ When I was a kid I feared to seeing it, but growing older, It strikes me that pa
 <br/><br/>
 Anyway, I no longer fear of that dreaming, rather I am in awe of seeing and feeling the universe through my closed-eyes, but sadly I cannot get in to this memory frequently these days than when I was young.
 <br/><br/>
+
 ### the cosmos
