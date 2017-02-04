@@ -2,7 +2,7 @@
 layout: post
 title: Color Your Voice
 description: interacitve project using MAX MSP and Processing
-img: /img/7.jpg
+img:
 ---
 
 Color your voice, interactive installation, 2015
@@ -24,13 +24,15 @@ Videos, photos and more descriptions will be upload.
 
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/73.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/7.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/73.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	Participants can pick one of cards they're interested in, then read texts written back on it. <br/>
 	The recitation becomes individual color.
 </div>
-
+<br/>
+<p align="middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mUlZvgio3wE" frameborder="0" allowfullscreen></iframe>
+</p>
 
 <br/><br/><br/>
