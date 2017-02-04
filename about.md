@@ -22,7 +22,8 @@ I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, an
 <br/>
 
 <h4> CV </h4>
-<p>
+<br/><br/>
+
 
 Interactive media projects on ISC
 <ul>
@@ -64,9 +65,9 @@ Exhibition
 <li>Group exhibition at Amway Gallery, 2016</li>
 <li>Exhibition in media-art-club <a href="http://www.cre8s.org/" target="blank">cre8s</a> at IdeaFactory, SNU, 2016</li>
 </ul>
-</p>
 
-<br/>
+
+<br/><br/>
 <hr/>
 <br/>
 <span class="contacticon center">
