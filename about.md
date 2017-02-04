@@ -26,43 +26,43 @@ I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, an
 
 Interactive media projects on ISC
 <ul>
-<li>Pingpong Painting(interactive sports/game/drawing)</li>
-<li>Color Your Voice(interactive installation)</li>
-<li>Starry Night(interactive installation)</li>
-<li>MalMal(iOS App)</li>
+<li>Pingpong Painting(interactive sports/game/drawing), 2015</li>
+<li>Color Your Voice(interactive installation), 2015</li>
+<li>Starry Night(interactive installation), 2015</li>
+<li>MalMal(iOS App), 2016</li>
 </ul>
 
 Research/Design on ISC
 <ul>
-<li>A design for Internet Shopping Helper on Chrome extension</li>
-<li>Smart Shopping Bag and Cart(IoT research, thesis on ISC)</li>
-<li>Research and development for Interactive CPR Manikin</li>
+<li>A design for Internet Shopping Helper on Chrome extension, 2015</li>
+<li>Smart Shopping Bag and Cart(IoT research, thesis on ISC), 2015</li>
+<li>Research and development for Interactive CPR Manikin, 2016</li>
 </ul>
 
 Research on Sociology
 <ul>
-<li>Research on New Art Activism and MAKE Workshops(thesis on Sociology)</li>
-<li>Research on Community Art in Eunpyeong District in Seoul, Korea</li>
+<li>Research on New Art Activism and MAKE Workshops(thesis on Sociology), 2016</li>
+<li>Research on Community Art in Eunpyeong District in Seoul, Korea, 2016</li>
 </ul>
 
 Other works
 <ul>
-<li>SNU Hippie Generation(performance)</li>
-<li>Meat Times series(videos etc)</li>
-<li>Agreed.(interactive installation)</li>
-<li>Mask series(performance)</li>
+<li>SNU Hippie Generation(performance), 2012</li>
+<li>Meat Times series(videos etc), 2012~</li>
+<li>Agreed.(interactive installation), 2016</li>
+<li>Mask series(performance), 2016</li>
 </ul>
 
 <a href="http://aiees.snu.ac.kr/greenleadership/website/index.php" target="blank">Green leadership Program</a>
 <ul>
-<li>Green leadership Certificate in Seoul National University</li>
-<li>Internship at <a href="http://www.climatechangecenter.kr/" target="blank">Climate Change Center</a>(NGO in Korea)</li>
+<li>Green leadership Certificate in Seoul National University, 2017</li>
+<li>Internship at <a href="http://www.climatechangecenter.kr/" target="blank">Climate Change Center</a>(NGO in Korea), 2012</li>
 </ul>
 
 Exhibition
 <ul>
-<li>Exhibition at Amway Gallery</li>
-<li>Exhibition in media-art-club <a href="http://www.cre8s.org/" target="blank">cre8s</a> at IdeaFactory, SNU</li>
+<li>Group exhibition at Amway Gallery, 2016</li>
+<li>Exhibition in media-art-club <a href="http://www.cre8s.org/" target="blank">cre8s</a> at IdeaFactory, SNU, 2016</li>
 </ul>
 </p>
 
