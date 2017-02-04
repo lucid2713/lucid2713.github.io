@@ -15,7 +15,7 @@ I studied Sociology and ISC(Information Science and Culture) in Seoul National U
 
 I'm interested in Art and Technology thesedays, so I'm about to apply to the master's course associated with that field. And I also have interests in the digital society, human-computer interaction, media art and design, digital activism, and environment and ecology.
 
-I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, and strolling around. I'd like to try new things- whatever excites me. :)
+I'm fond of cooking, drawing, dancing, skateboarding -though not so good at!, and strolling around. I prefer small and humble things to new and fancy ones. And I'd like to try new things- whatever excites me. :)
 
 
 ***
