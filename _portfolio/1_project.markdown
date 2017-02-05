@@ -2,7 +2,7 @@
 layout: post
 title: Agreed.
 description: an installation using Arduino, a hidden camera and web server
-img: /img/11.jpg
+img: 
 ---
 
 Agreed. installation, 2016

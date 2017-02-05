@@ -2,7 +2,7 @@
 layout: post
 title: Starry Night
 description: interactive drawing using Leap Motion and Processing
-img: /img/6.jpg
+img: 
 ---
 
 Starry Night, interactive installation, 2015
