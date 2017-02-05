@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graduation project on ISC
-date: 2017-01-12 21:01:00
+date: 2016-06-30 00:00:00
 description: Smart shopping bag and cart (Design planning for IoT)
 ---
 This is a graduation project on the department of Information Science and Culture(bachelor's degree). <br/>
