@@ -2,7 +2,7 @@
 layout: post
 title: Pingpong Painting
 description: a pingpong game using Arduino, Kinect and Processing
-img: /img/2.jpg
+img: 
 ---
 
 Pingpong Painting, interactive installation, 2015
