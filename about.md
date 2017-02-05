@@ -45,7 +45,7 @@ Research/Design on ISC
 Research on Sociology
 
 <li>"Digital Fabrication Workshop - arts as well as a new social activity", research on New Art Activism and MAKE Workshops(thesis on Sociology), 2016</li>
-<li>"Community in the relationship, Art in the process", research on Community Art in Eunpyeong District in Seoul, Korea, 2016</li>
+<li>"Community through the relationship, Art through the process", group research on Community Art in Eunpyeong District in Seoul, Korea, 2016</li>
 </ul>
 
 <ul>
