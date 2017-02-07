@@ -27,3 +27,8 @@ Key Words : Maker Movement, Newmedia Art, Digital Fabrication Workshop, New-Art-
 <object data="{{ site.baseurl }}/pdfs/mina-socioloy-thesis-edit-170207.pdf" width="100%" type='application/pdf'><p>Sorry, the PDF couldn't be displayed</p>
 </object>
 </p>
+
+<p>
+<object data="http://lucid2713.github.io/pdfs/mina-socioloy-thesis-edit-170207.pdf" width="100%" type='application/pdf'><p>Sorry, the PDF couldn't be displayed</p>
+</object>
+</p>
