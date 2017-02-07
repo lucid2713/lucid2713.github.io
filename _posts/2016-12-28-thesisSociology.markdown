@@ -6,6 +6,9 @@ description: Digital Fabrication Workshop - arts as well as a new social activit
 ---
 This is a graduation thesis on the department of Sociology(bachelor's degree).
 
+***
+<br/>
+
 <h3>디지털 제작 기술 워크숍 - 새로운 사회행동으로서의 예술</h3>
 <br/>
 <h4>초록</h4>
