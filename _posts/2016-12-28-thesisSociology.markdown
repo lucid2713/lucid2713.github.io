@@ -21,8 +21,9 @@ There is an art activity called 'Digital Fabrication Workshop’(aka Making work
 </p>
 Key Words : Maker Movement, Newmedia Art, Digital Fabrication Workshop, New-Art-Activism
 <br/><br/>
+
 ***
 <br/>
 
-<object data="{{ site.baseurl }}/pdfs/mina-socioloy-thesis-edit-170207.pdf" width="100%" height="100%" type="application/pdf"> <p>You can download the PDF file <a href={{ site.baseurl }}/pdfs/mina-socioloy-thesis-edit-170207.pdf">here</a>.</p>
+<object data="{{ site.baseurl }}/pdfs/mina-socioloy-thesis-edit-170207.pdf" width="100%" height="700" type="application/pdf"> <p>You can download the PDF file <a href={{ site.baseurl }}/pdfs/mina-socioloy-thesis-edit-170207.pdf">here</a>.</p>
 </object>
