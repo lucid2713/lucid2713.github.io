@@ -20,7 +20,9 @@ Description
 </p>
 <br/>
 Here are Source Codes
-<br/><br/>
+
+***
+<br/>
 Arduino source code 1: Setting sound systems and the status of manikin
 
 {% highlight c++ %}
