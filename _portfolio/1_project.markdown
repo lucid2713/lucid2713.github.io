@@ -20,6 +20,7 @@ img:
 <div class="col three caption">
 	Exhibition at Amway Gallery, 2016
 </div>
+<br/>
 
 ***
 
@@ -42,7 +43,7 @@ In the other side of the room, there was a screen which showed those photos, thu
 <div class="col three caption">
 	Screen and Machine
 </div>
-<br/><br/><br/>
+<br/><br/>
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RivHmjZklTI" frameborder="0" allowfullscreen></iframe>
 </p>
