@@ -2,25 +2,23 @@
 layout: post
 title: Agreed.
 description: an installation using Arduino, a hidden camera and web server
-img: 
+img:
 ---
 
-Agreed. installation, 2016
+<i>Agreed. Installation(Arduino, Hidden camera, Web server, 3D printed parts), 2016</i>
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/12.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="poster image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/12.jpg" alt="" title="poster image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="poster image"/>
 </div>
-<div class="col three caption">
-	An installation using Arduino, a hidden camera and web server.
-</div>
+
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/13.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/13.jpg" alt="" title="exhibition image"/>
 </div>
 <div class="col three caption">
-	Caption
+	Exhibition at Amway Gallery, 2016
 </div>
 <p>
 Worked with 2 other friends. We focused on how people easily agree with providing their personal information these days. <br/>
