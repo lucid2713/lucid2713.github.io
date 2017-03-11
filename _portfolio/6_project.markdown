@@ -9,6 +9,7 @@ img:
 
 ***
 
+<br/>
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
@@ -23,7 +24,6 @@ img:
 </div>
 <br/>
 
-<br/>
 Using leap motion, we can sweep out stars of the night sky in the screen toward two kinds of cloud. One is pink-colored cloud(left) and the other is gray-colored could(right). When cloud gets heavy, it falls down as flowered-rain(pink) or dust-rain(gray).<br/>
 Work with 3 other colleagues as a study project.<br/>
 

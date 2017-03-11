@@ -9,6 +9,7 @@ img:
 
 ***
 
+<br/>
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="poster image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/12.jpg" alt="" title="poster image"/>
@@ -24,7 +25,6 @@ img:
 <br/>
 
 
-<br/>
 Worked with 2 other friends. We focused on how people easily agree with providing their personal information these days. <br/>
 We installed a candy machine, which a camera was built in but hidden on the outside. And there was a very light and pale sign next to the machine that let audience inform 'If you agree with taken pictures of you, turn the handle and get candies'. So when people turned the handle of the machine to get candies, the camera secretly took pictures of them. Most audience didn't see or notice the sign and just easily turned the knob.<br/>
 In the other side of the room, there was a screen which showed those photos, thus people could find their faces after enjoying candies.

@@ -10,6 +10,7 @@ img: /img/8.jpg
 
 ***
 
+<br/>
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/84.jpg" alt="" title="Look at the tree"/>
 	<img class="col one" src="{{ site.baseurl }}/img/85.jpg" alt="" title="set up the picnic"/>
@@ -26,7 +27,6 @@ img: /img/8.jpg
 </div>
 <br/>
 
-<br/>
 One of my friend and I worked with it. The concept of this performance was hippie, kitsch, comic and occupy.<br/>
 There was a story(believe it or not) about the central lawn in my university. Long ago, when students sat down on this lawn, playing and having a rest, the school's president at that time yelled at them "Get out of *my lawn* !" <br/>
 Therefore the lawn has been called "the president's lawn", and the place is always restricted to come in still now. Thus we intentionally got in the lawn and did some funny acts.

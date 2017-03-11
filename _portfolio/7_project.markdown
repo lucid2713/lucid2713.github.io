@@ -9,6 +9,7 @@ img:
 
 ***
 
+<br/>
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/71.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/75.jpg" alt="" title="example image"/>
@@ -19,7 +20,6 @@ img:
 </div>
 <br/>
 
-<br/>
 Worked with 2 other colleagues.<br/>
 The concept is 'express yourself by identifying your own color'. When participants speak through the microphone installed, computer receives data of voices such as frequency and tone. According to those figure, each face captured by the webcam is colored individually.
 <br/>

@@ -10,6 +10,7 @@ img: /img/3.jpg
 
 ***
 
+<br/>
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/31.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/32.jpg" alt="" title="example image"/>
