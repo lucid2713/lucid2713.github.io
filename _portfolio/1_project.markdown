@@ -20,22 +20,29 @@ img:
 <div class="col three caption">
 	Exhibition at Amway Gallery, 2016
 </div>
+
+***
+
 <p>
 Worked with 2 other friends. We focused on how people easily agree with providing their personal information these days. <br/>
 We installed a candy machine, which a camera was built in but hidden on the outside. And there was a very light and pale sign next to the machine that let audience inform 'If you agree with taken pictures of you, turn the handle and get candies'. So when people turned the handle of the machine to get candies, the camera secretly took pictures of them. Most audience didn't see or notice the sign and just easily turned the knob.<br/>
 In the other side of the room, there was a screen which showed those photos, thus people could find their faces after enjoying candies.
 </p>
-I contributed to installing the machine, coding Arduino, camera setting.
+
+#### I contributed to
+<ul>
+	<li>installing the machine, coding Arduino and camera setting</li>
+</ul>
 
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/14.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/14.jpg" alt="" title="captures images on screen"/>
+	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="candy machine within hidden camera"/>
 </div>
 <div class="col three caption">
 	Screen and Machine
 </div>
-<br/>
+<br/><br/><br/>
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RivHmjZklTI" frameborder="0" allowfullscreen></iframe>
 </p>
