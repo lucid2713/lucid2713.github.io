@@ -10,7 +10,7 @@ img: /img/8.jpg
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/84.jpg" alt="" title=""Look at the tree""/>
+	<img class="col one" src="{{ site.baseurl }}/img/84.jpg" alt="" title="Look at the tree"/>
 	<img class="col one" src="{{ site.baseurl }}/img/85.jpg" alt="" title="set up the picnic"/>
 	<img class="col one" src="{{ site.baseurl }}/img/86.jpg" alt="" title="playing games"/>
 </div>
