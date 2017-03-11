@@ -23,7 +23,7 @@ Description
 ***
 
 <i>Here are Source Codes</i>
-<br/>
+<br/><br/>
 Arduino source code 1: Setting sound systems and the status of manikin
 
 {% highlight c++ %}
@@ -345,4 +345,4 @@ void countPress(int temp) {
 
 {% endhighlight %}
 
-Here is our <a href="https://github.com/eunjeeSung/cpr" target="blank">Github repository</a>.
+<i>Here is our <a href="https://github.com/eunjeeSung/cpr" target="blank">Github repository</a>.</i>
