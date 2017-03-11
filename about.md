@@ -6,7 +6,7 @@ permalink: /about/
 
 <img class="col one right" src="/img/prof_pic.jpg">
 
-<br/>
+
 Hi, My name is Min-a Kim.
 I was born in Busan, South Korea and had lived in there until 18 years old. Currently I live in Seoul.
 I studied <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a> and ISC(<a href="http://isc.snu.ac.kr/" target="blank">Information Science and Culture</a>) in Seoul National University.
