@@ -2,7 +2,7 @@
 layout: post
 title: Mask
 description: series of performances
-img:
+img: /img/41.png
 
 ---
 
