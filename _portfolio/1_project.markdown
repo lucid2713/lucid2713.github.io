@@ -11,9 +11,9 @@ img: /img/16.png
 
 <br/>
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="poster image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/12.jpg" alt="" title="poster image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="poster image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/17.png" alt="" title="poster image"/>
 </div>
 
 <div class="img_row">
