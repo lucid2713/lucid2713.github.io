@@ -29,10 +29,8 @@ There was a story(believe it or not) about the central lawn in my university. Lo
 Therefore the lawn has been called "the president's lawn", and the place is always restricted to come in still now. Thus we intentionally got in the lawn and did some funny acts.
 
 
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/82.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/81.jpg" alt="" title="example image"/>
-</div>
+<img class="col three" src="/img/87.jpg" alt="" title="posters at final term exhibition"/>
+
 <div class="col three caption">
 	We made comics and poster.
 </div>
