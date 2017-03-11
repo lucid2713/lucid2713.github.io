@@ -7,6 +7,7 @@ img:
 
 <i>Agreed. Installation(Arduino, Hidden camera, Web server, 3D printed parts), 2016</i>
 
+***
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="poster image"/>
@@ -22,7 +23,6 @@ img:
 </div>
 <br/>
 
-***
 
 <br/>
 Worked with 2 other friends. We focused on how people easily agree with providing their personal information these days. <br/>

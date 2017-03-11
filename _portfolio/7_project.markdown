@@ -7,6 +7,8 @@ img:
 
 <i>Color your voice, Interactive Installation(MAX MSP, Processing), 2015</i>
 
+***
+
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/71.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/75.jpg" alt="" title="example image"/>
@@ -16,8 +18,6 @@ img:
 	Outcome images. before changing(center, gray) and after(both side, colored)
 </div>
 <br/>
-
-***
 
 <br/>
 Worked with 2 other colleagues.<br/>

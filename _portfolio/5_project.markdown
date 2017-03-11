@@ -7,6 +7,7 @@ img:
 
 <i>Meat Times, Series of video, drawing, interactive things, 2012-</i>
 
+***
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/5.png" alt="" title="example image"/>

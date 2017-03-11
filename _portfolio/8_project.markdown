@@ -8,6 +8,7 @@ img: /img/8.jpg
 
 <i>SNU hippie generation, performance, 2012</i>
 
+***
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/84.jpg" alt="" title="Look at the tree"/>
@@ -24,8 +25,6 @@ img: /img/8.jpg
 	The building behind is the administration building, where the president stays.
 </div>
 <br/>
-
-***
 
 <br/>
 One of my friend and I worked with it. The concept of this performance was hippie, kitsch, comic and occupy.<br/>

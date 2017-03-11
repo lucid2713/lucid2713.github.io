@@ -7,6 +7,7 @@ img:
 
 <i>Pingpong Painting, Interactive Installation(Arduino, Kinect, Processing), 2015</i>
 
+***
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/21.jpg" alt="" title="poster image"/>
@@ -19,7 +20,6 @@ img:
 </div>
 <br/>
 
-***
 
 <br/>
 Worked with 2 other colleagues as a study project. We used the pingpong racket and balls but the way of play is much similar to the squash. <br/>

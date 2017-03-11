@@ -7,6 +7,7 @@ img:
 
 <i>Starry Night, Interactive Installation(Leap Motion, Processing), 2015</i>
 
+***
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
@@ -21,8 +22,6 @@ img:
 	captured
 </div>
 <br/>
-
-***
 
 <br/>
 Using leap motion, we can sweep out stars of the night sky in the screen toward two kinds of cloud. One is pink-colored cloud(left) and the other is gray-colored could(right). When cloud gets heavy, it falls down as flowered-rain(pink) or dust-rain(gray).<br/>

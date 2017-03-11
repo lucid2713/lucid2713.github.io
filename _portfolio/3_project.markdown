@@ -8,6 +8,7 @@ img: /img/3.jpg
 
 <i>Mask, performance(solo), 2016</i>
 
+***
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/31.jpg" alt="" title="example image"/>
@@ -23,8 +24,6 @@ img: /img/3.jpg
 <div class="col three caption">
 	during the solo performance
 </div>
-
-***
 
 <br/>
 Mask is composed of series of 2 performances, 1 video, 1 sound installation, 1 audiovisual. <br/>
