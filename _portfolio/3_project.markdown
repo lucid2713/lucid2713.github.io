@@ -24,7 +24,8 @@ img: /img/3.jpg
 	during the solo performance
 </div>
 
-<hr>
+***
+
 <br/>
 Mask is composed of series of 2 performances, 1 video, 1 sound installation, 1 audiovisual. <br/>
 I took part in 2 performances: one is a sort of dance/movement using sound system made of arduino and pressure sensor. I and three of my friends worked with.<br/>
