@@ -6,7 +6,7 @@ img: /img/8.jpg
 
 ---
 
-SNU hippie generation, performance, 2012
+<i>SNU hippie generation, performance, 2012</i>
 
 
 <div class="img_row">

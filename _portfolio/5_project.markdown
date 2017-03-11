@@ -5,7 +5,7 @@ description: series of video, drawing, interactive things
 img:
 ---
 
-Meat Times series, 2012-
+<i>Meat Times, Series of video, drawing, interactive things, 2012-</i>
 
 
 <div class="img_row">

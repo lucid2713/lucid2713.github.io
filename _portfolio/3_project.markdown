@@ -6,7 +6,7 @@ img: /img/3.jpg
 
 ---
 
-Mask, performance, 2016
+<i>Mask, performance(solo/group), 2016</i>
 
 
 <div class="img_row">
