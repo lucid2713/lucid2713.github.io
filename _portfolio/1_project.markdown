@@ -29,7 +29,7 @@ In the other side of the room, there was a screen which showed those photos, thu
 
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/14.jpg" alt="" title="captures images on screen"/>
+	<img class="col two" src="{{ site.baseurl }}/img/14.jpg" alt="" title="captured images on screen"/>
 	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="candy machine within hidden camera"/>
 </div>
 <div class="col three caption">
