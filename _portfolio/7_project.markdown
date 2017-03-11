@@ -30,8 +30,7 @@ Participants can pick one of cards on board they're interested in, then read tex
 <ul>
 	<li>design and coding by Processing</li>
 </ul>
-<br/><br/>
-
+<br/>
 
 
 <img class="col three" src="/img/74.jpg" alt="color cards and ideation process" title="color cards and ideation process"/>
@@ -39,11 +38,11 @@ Participants can pick one of cards on board they're interested in, then read tex
 <div class="col three caption">
 	Cards board and ideation note
 </div>
-<br/><br/>
+<br/><br/><br/>
 
 ***
 
-<br/><br/>
+<br/><br/><br/>
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mUlZvgio3wE" frameborder="0" allowfullscreen></iframe>
 </p>
