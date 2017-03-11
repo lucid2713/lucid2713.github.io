@@ -16,12 +16,6 @@ img: /img/16.png
 	<img class="col one" src="{{ site.baseurl }}/img/17.png" alt="" title="poster image"/>
 </div>
 
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/13.jpg" alt="" title="exhibition image"/>
-</div>
-<div class="col three caption">
-	Exhibition at Amway Gallery, 2016
-</div>
 <br/>
 
 
@@ -43,6 +37,14 @@ In the other side of the room, there was a screen which showed those photos, thu
 <div class="col three caption">
 	Screen and Machine
 </div>
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/13.jpg" alt="" title="exhibition image"/>
+</div>
+<div class="col three caption">
+	Exhibition at Amway Gallery, 2016
+</div>
+
 <br/><br/>
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RivHmjZklTI" frameborder="0" allowfullscreen></iframe>
