@@ -1,18 +1,20 @@
 ---
 layout: post
-title: Interactive CPR manikin
-description: research and development using Arduino
+title: Mask
+description: series of performances
 img:
 
 ---
 
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/9.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/9.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Interactive CPR Manikin : research and development project
-</div>
+<i>Mask, performance(group), 2016</i>
 
+<br/><br/>
+
+<blockquote>
+Mask is composed of series of 2 performances, 1 video, 1 sound installation, 1 audiovisual. <br/>
+I took part in 2 performances: one is a sort of dance/movement using sound system made of arduino and pressure sensor. I and three of my friends worked with.<br/>
+Another performance is my own solo. Using camera, audio system and handout etc. <br/><br/>
+The theme is about the fatigued-society these days, which makes people put on a mask to conceal themselves and makes them justify themselves to endure irrational situation and regard it as inevitable conditions.
+</blockquote>
 
 <br/><br/><br/>
