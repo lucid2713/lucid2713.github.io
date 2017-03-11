@@ -11,9 +11,9 @@ img:
 
 <br/>
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/71.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/75.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/72.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/71.jpg" alt="" title="colored"/>
+	<img class="col one" src="{{ site.baseurl }}/img/75.jpg" alt="" title="uncolored"/>
+	<img class="col one" src="{{ site.baseurl }}/img/72.jpg" alt="" title="colored"/>
 </div>
 <div class="col three caption">
 	Outcome images. before changing(center, gray) and after(both side, colored)
@@ -33,7 +33,7 @@ Participants can pick one of cards on board they're interested in, then read tex
 <br/>
 
 
-<img class="col three" src="/img/74.jpg" alt="color cards and ideation process" title="color cards and ideation process"/>
+<img class="col three" src="/img/74.jpg" alt="color cards and ideation process" title="color cards and ideation note"/>
 
 <div class="col three caption">
 	Cards board and ideation note
