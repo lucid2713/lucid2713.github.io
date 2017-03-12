@@ -30,7 +30,6 @@ Participants can pick one of cards on board they're interested in, then read tex
 <ul>
 	<li>design and coding by Processing</li>
 </ul>
-<br/>
 
 
 <img class="col three" src="/img/74.jpg" alt="color cards and ideation process" title="color cards and ideation note"/>
@@ -38,6 +37,7 @@ Participants can pick one of cards on board they're interested in, then read tex
 <div class="col three caption">
 	Cards board and ideation note
 </div>
+
 <br/><br/>
 
 <p align="middle">
