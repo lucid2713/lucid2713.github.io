@@ -19,6 +19,10 @@ Description
 </ul>
 </p>
 <br/>
+<object data="{{ site.baseurl }}/pdfs/CPRmanikinReports.pdf" width="100%" height="1000" type="application/pdf"> <p>You can download the PDF file <a href={{ site.baseurl }}/pdfs/CPRmanikinReports.pdf">here</a>.</p>
+</object>
+<br/>
+
 
 ***
 
