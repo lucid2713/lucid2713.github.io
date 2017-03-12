@@ -16,14 +16,15 @@ This project had proceeded in the academic-industrial collaboration program, par
 <div class="col three caption">
 The storyboard of the final result.
 </div>
-<br/><br/>
+<br/><br/><br/>
 
-<object data="{{ site.baseurl }}/pdfs/SmartShoppingCartBag.pdf" width="100%" type="application/pdf"> <p>You can download the PDF file <a href={{ site.baseurl }}/pdfs/SmartShoppingCartBag.pdf">here</a>.</p>
+<object data="{{ site.baseurl }}/pdfs/SmartShoppingCartBag.pdf" width="100%" height="" type="application/pdf"> <p>You can download the PDF file <a href={{ site.baseurl }}/pdfs/SmartShoppingCartBag.pdf">here</a>.</p>
 </object>
 <br/>
 
 ***
 
+<br/>
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SxaWsVJrnxM" frameborder="0" allowfullscreen></iframe></p>
 
