@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agreed.
-description: an installation using Arduino, a hidden camera and web server
+description: Installation(Arduino, Hidden camera, Web server, 3D printed parts)
 img: /img/16.png
 ---
 
