@@ -17,5 +17,14 @@ This project had proceeded in the academic-industrial collaboration program, par
 The storyboard of the final result.
 </div>
 <br/><br/>
+
+<object data="{{ site.baseurl }}/pdfs/SmartShoppingCartBag.pdf" width="100%" type="application/pdf"> <p>You can download the PDF file <a href={{ site.baseurl }}/pdfs/SmartShoppingCartBag.pdf">here</a>.</p>
+</object>
+<br/>
+
+***
+
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SxaWsVJrnxM" frameborder="0" allowfullscreen></iframe></p>
+
+<br/><br/><br/>
