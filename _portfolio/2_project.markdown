@@ -11,14 +11,17 @@ img:
 
 <br/>
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/21.jpg" alt="" title="poster image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/22.jpg" alt="" title="manual image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/24.jpg" alt="" title="outcome image"/>
-</div>
-
-<div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/26.jpg" alt="" title="poster image"/>
 </div>
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/23.jpg" alt="" title="installation design"/>
+	<img class="col one" src="{{ site.baseurl }}/img/22.jpg" alt="" title="outcome image"/>
+</div>
+<div class="col three caption">
+	installation design(left) and the game manual(right)
+</div>
+
+
 <br/>
 
 
@@ -32,14 +35,16 @@ The concept is 'playing game, workout and interactive drawing at the same time'.
 </ul>
 <br/>
 
-
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/23.jpg" alt="" title="installation design"/>
-	<img class="col one" src="{{ site.baseurl }}/img/25.jpg" alt="" title="outcome image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="poster image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/25.jpg" alt="" title="manual image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/24.jpg" alt="" title="outcome image"/>
 </div>
 <div class="col three caption">
-	installation design(left) and the outcome of the game(right)
+	outcomes of the game
 </div>
+
+
 <br/><br/>
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L4B_kiCrjv4" frameborder="0" allowfullscreen></iframe>
