@@ -9,17 +9,12 @@ img: /img/54.png
 
 ***
 
-<br/>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/51.jpg" alt="MeatTimes4" title="MeatTimes4"/>
-</div>
 <p align="middle">
 <iframe src="https://player.vimeo.com/video/205177007" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
 
-<br/>
 I have had interest in the cruelty of 'factory-manufactured meat' for years. So I keep thinking about these theme and trying various ways of expression. <br/>
-I considered of video, interactive installation and animation and tinkered with it until now.
+I just tinkered with it through video, interactive materials and animation so far, but would like to develop them into more complete works.
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/52.jpg" alt="processing work" title="processing work"/>
