@@ -11,9 +11,6 @@ img:
 
 <br/>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/2626.jpg" alt="logo" title="logo"/>
-</div>
-<div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/23.jpg" alt="installation design" title="installation design"/>
 	<img class="col one" src="{{ site.baseurl }}/img/22.jpg" alt="game manual" title="game manual"/>
 </div>
@@ -47,5 +44,7 @@ The concept is 'playing game, workout and interactive drawing at the same time'.
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L4B_kiCrjv4" frameborder="0" allowfullscreen></iframe>
 </p>
-
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/2626.jpg" alt="logo" title="logo"/>
+</div>
 <br/><br/><br/>
