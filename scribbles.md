@@ -1,15 +1,15 @@
 ---
 layout: page
-permalink: /scribbles/
-title: scribbles
+permalink: /notes/
+title: notes
 description: drawings, pictures, writing and other trivial works
 ---
 
 <ul class="post-list">
-{% for scribbles in site.scribbles reversed %}
+{% for notes in site.notes reversed %}
     <li>
-        <h2><a class="scribbles-title" href="{{ scribbles.url | prepend: site.baseurl }}">{{ scribbles.title }}</a></h2>
-        <p class="post-meta">{{ scribbles.date | date: '%B %-d, %Y — %H:%M' }}</p>
+        <h2><a class="notes-title" href="{{ notes.url | prepend: site.baseurl }}">{{ notes.title }}</a></h2>
+        <p class="post-meta">{{ notes.date | date: '%B %-d, %Y — %H:%M' }}</p>
       </li>
 {% endfor %}
 </ul>
