@@ -12,9 +12,7 @@ img: /img/54.png
 <br/>
 <p align="middle">
 <iframe src="https://player.vimeo.com/video/205177007" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<div class="col three caption">
-	MeatTimes4, Video, 2016
-</div>
+<p><a href="https://vimeo.com/205177007">MeatTimes4</a> from <a href="https://vimeo.com/user38129979">mina</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </p>
 
 I have had interest in the cruelty of 'factory-manufactured meat' for years. So I keep thinking about these theme and trying various ways of expression. <br/>
