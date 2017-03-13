@@ -32,12 +32,10 @@ I just tinkered with it through video, interactive materials and animation so fa
 <br/>
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/puFEqbCy5nM" frameborder="0" allowfullscreen></iframe>
-</p>
 <div class="col three caption">
 	for 3Dmax practice in 3D-animation class, 2013
 </div>
-
-
+</p>
 
 
 <br/><br/><br/>
