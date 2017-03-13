@@ -11,7 +11,7 @@ img:
 
 <br/>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/26.jpg" alt="" title="poster image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/2626.jpg" alt="" title="poster image"/>
 </div>
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/23.jpg" alt="" title="installation design"/>
