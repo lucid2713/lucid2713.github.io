@@ -35,7 +35,7 @@ Therefore the lawn has been called "the president's lawn", and the place is alwa
 <img class="col three" src="/img/87.jpg" alt="" title="posters at final term exhibition"/>
 
 <div class="col three caption">
-	We made comics and poster for the final term exhibition.
+	We made poster and comics for the final term exhibition.
 </div>
 
 
