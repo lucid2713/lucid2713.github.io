@@ -11,31 +11,34 @@ img: /img/54.png
 
 <br/>
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/5.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/5.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/5.png" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/51.jpg" alt="MeatTimes4" title="MeatTimes4"/>
 </div>
-<div class="col three caption">
-	Series of video, drawing, interactive things.
-</div>
-<br/>
+<p align="middle">
+<iframe src="https://player.vimeo.com/video/205177007" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</p>
 
+<br/>
 I have had interest in the cruelty of 'factory-manufactured meat' for years. So I keep thinking about these theme and trying various ways of expression. <br/>
 I considered of video, interactive installation and animation and tinkered with it until now.
 
-
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/51.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/5.png" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/52.jpg" alt="processing work" title="processing work"/>
+	<img class="col one" src="{{ site.baseurl }}/img/53.jpg" alt="processing arduino work" title="processing arduino work"/>
 </div>
+
 <div class="col three caption">
-	other pictures and videos will be added soon
+	works by Processing and Arduino, 2013
 </div>
 
 <br/>
 <p align="middle">
-<iframe src="https://player.vimeo.com/video/205177007" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/205177007">MeatTimes4</a> from <a href="https://vimeo.com/user38129979">mina</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/puFEqbCy5nM" frameborder="0" allowfullscreen></iframe>
 </p>
+<div class="col three caption">
+	for 3Dmax practice in 3D-animation class, 2013
+</div>
+
+
+
 
 <br/><br/><br/>
