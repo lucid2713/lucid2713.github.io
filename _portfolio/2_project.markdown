@@ -47,4 +47,4 @@ The concept is 'playing game, workout and interactive drawing at the same time'.
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/2626.jpg" alt="logo" title="logo"/>
 </div>
-<br/><br/><br/>
+<br/>
