@@ -11,11 +11,11 @@ img:
 
 <br/>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/2626.jpg" alt="" title="poster image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/2626.jpg" alt="logo" title="logo"/>
 </div>
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/23.jpg" alt="" title="installation design"/>
-	<img class="col one" src="{{ site.baseurl }}/img/22.jpg" alt="" title="outcome image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/23.jpg" alt="installation design" title="installation design"/>
+	<img class="col one" src="{{ site.baseurl }}/img/22.jpg" alt="game manual" title="game manual"/>
 </div>
 <div class="col three caption">
 	installation design(left) and game manual(right)
@@ -34,9 +34,9 @@ The concept is 'playing game, workout and interactive drawing at the same time'.
 </ul>
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="poster image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/25.jpg" alt="" title="manual image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/24.jpg" alt="" title="outcome image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="outcome image1" title="outcome image1"/>
+	<img class="col one" src="{{ site.baseurl }}/img/25.jpg" alt="outcome image2" title="outcome image2"/>
+	<img class="col one" src="{{ site.baseurl }}/img/24.jpg" alt="outcome image3" title="outcome image3"/>
 </div>
 <div class="col three caption">
 	outcomes of the game
