@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Graduation thesis on Sociology
+title:  Digital Fabrication Workshop - arts as well as a new social activity
 date:   2016-12-28 00:00:00
-description: Digital Fabrication Workshop - arts as well as a new social activity
+description: Graduation thesis on Sociology
 ---
 This is a graduation thesis on the department of Sociology(bachelor's degree).
 

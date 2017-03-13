@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Graduation project on ISC
+title: Smart shopping bag and cart (Design planning for IoT)
 date: 2016-06-30 00:00:00
-description: Smart shopping bag and cart (Design planning for IoT)
+description: Graduation project on ISC
 ---
 This is a graduation project on the department of Information Science and Culture(bachelor's degree). <br/>
 I and another colleague together had researched and designed "smart shopping cart and smart shopping bag" as a theme for IoT related to shopping. <br/>
 This project had proceeded in the academic-industrial collaboration program, partnered with <a href="https://www.ldcc.co.kr/en/index.asp" target="blank">'Lotte data communication'</a>.
-
 
 
 
