@@ -23,6 +23,6 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  scribbles:
+  notes:
     output: true
-    permalink: /scribbles/:path/
+    permalink: /notes/:path/
