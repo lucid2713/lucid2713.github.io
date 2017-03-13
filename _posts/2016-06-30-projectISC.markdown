@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Smart shopping bag and cart (Design planning for IoT)
+title: Smart shopping bag and cart
+(Design planning for IoT)
 date: 2016-06-30 00:00:00
 description: Graduation project on ISC
 ---

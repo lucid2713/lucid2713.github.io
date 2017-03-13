@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  Digital Fabrication Workshop - arts as well as a new social activity
+title:  Digital Fabrication Workshop
+- arts as well as a new social activity
 date:   2016-12-28 00:00:00
 description: Graduation thesis on Sociology
 ---
