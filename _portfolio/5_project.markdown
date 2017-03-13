@@ -13,6 +13,9 @@ img: /img/54.png
 <p align="middle">
 <iframe src="https://player.vimeo.com/video/205177007" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
+<div class="col three caption">
+	MeatTimes4, Video, 2016
+</div>
 
 I have had interest in the cruelty of 'factory-manufactured meat' for years. So I keep thinking about these theme and trying various ways of expression. <br/>
 I just tinkered with it through video, interactive materials and animation so far, but would like to develop them into more complete works.
