@@ -17,11 +17,13 @@ Another performance is my own solo. Using camera, audio system and handout etc. 
 The theme is about the fatigued-society these days, which makes people put on a mask to conceal themselves and makes them justify themselves to endure irrational situation and regard it as inevitable conditions.
 
 
-<img class="col three" src="/img/396.jpg" alt="during the performance" title="during the performance"/>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/396.jpg" alt="during the performance" title="during the performance"/>
+</div>
 
 about the group performance...
-about the group performance...
-about the group performance...
+<br/>about the group performance...
+<br/>about the group performance...
 
 <div class="img_row">
 <img class="col one" src="{{ site.baseurl }}/img/397.jpg" alt="performance image1" title="performance image1"/>
