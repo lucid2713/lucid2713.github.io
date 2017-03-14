@@ -47,7 +47,7 @@ It's awfully painful that confront, criticize, dig into and speak out against th
 </div>
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/393.jpg" alt="performance image3" title="performance image3"/>
+	<img class="col one" src="{{ site.baseurl }}/img/392.jpg" alt="performance image3" title="performance image3"/>
 	<img class="col one" src="{{ site.baseurl }}/img/394.jpg" alt="performance image4" title="performance image4"/>
 	<img class="col one" src="{{ site.baseurl }}/img/395.jpg" alt="performance image5" title="performance image5"/>
 </div>
