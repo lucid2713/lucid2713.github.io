@@ -35,7 +35,6 @@ The solo performance 'Mask' was motivated by most of current situations that you
 <br/><br/>
 It's awfully painful that confront, criticize, dig into and speak out against this matter, as I'm also one of those who are in that situation and have to find and take my places. Nevertheless I think it's much more distressing not to see what is in back of the surface and just to ignore the problem. So should speak out not to lose ourself and reproduce that kind of society by just integrated into it.
 
-<br/>
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/36.jpg" alt="exhibition image1" title="exhibition image1"/>
@@ -48,9 +47,9 @@ It's awfully painful that confront, criticize, dig into and speak out against th
 </div>
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/391.jpg" alt="performance image3" title="performance image3"/>
-	<img class="col one" src="{{ site.baseurl }}/img/393.jpg" alt="performance image4" title="performance image4"/>
-	<img class="col one" src="{{ site.baseurl }}/img/392.jpg" alt="performance image5" title="performance image5"/>
+	<img class="col one" src="{{ site.baseurl }}/img/393.jpg" alt="performance image3" title="performance image3"/>
+	<img class="col one" src="{{ site.baseurl }}/img/394.jpg" alt="performance image4" title="performance image4"/>
+	<img class="col one" src="{{ site.baseurl }}/img/395.jpg" alt="performance image5" title="performance image5"/>
 </div>
 
 <div class="col three caption">
