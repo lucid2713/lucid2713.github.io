@@ -19,9 +19,9 @@ The theme is about the fatigued-society these days, which makes people put on a 
 <br/>
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/31.jpg" alt="" title="text in resume 1"/>
-	<img class="col one" src="{{ site.baseurl }}/img/32.jpg" alt="" title="text in resume 2"/>
-	<img class="col one" src="{{ site.baseurl }}/img/33.jpg" alt="" title="text in resume 3"/>
+	<img class="col one" src="{{ site.baseurl }}/img/31.jpg" alt="text in resume 1" title="text in resume 1"/>
+	<img class="col one" src="{{ site.baseurl }}/img/32.jpg" alt="text in resume 2" title="text in resume 2"/>
+	<img class="col one" src="{{ site.baseurl }}/img/33.jpg" alt="text in resume 3" title="text in resume 3"/>
 </div>
 <div class="col three caption">
 	Handouts for the performance. The text was collected from the resume(CV) and cover letters for employment, written by young people currently in Korea, which are excessively self-promote.
@@ -40,11 +40,23 @@ It's awfully painful that confront, criticize, dig into and speak out against th
 <br/>
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/36.jpg" alt="" title="exhibition image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/37.jpg" alt="" title="during the performance"/>
+	<img class="col two" src="{{ site.baseurl }}/img/36.jpg" alt="exhibition image1" title="exhibition image1"/>
+	<img class="col one" src="{{ site.baseurl }}/img/37.jpg" alt="exhibition image2" title="exhibition image2"/>
 </div>
+
+<div class="img_row">
+<img class="col one" src="{{ site.baseurl }}/img/390.jpg" alt="performance image1" title="performance image1"/>
+	<img class="col two" src="{{ site.baseurl }}/img/39.jpg" alt="performance image2" title="performance image2"/>
+</div>
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/391.jpg" alt="performance image3" title="performance image3"/>
+	<img class="col one" src="{{ site.baseurl }}/img/393.jpg" alt="performance image4" title="performance image4"/>
+	<img class="col one" src="{{ site.baseurl }}/img/392.jpg" alt="performance image5" title="performance image5"/>
+</div>
+
 <div class="col three caption">
-	photos of the exhibition and the performance
+	photos of the performance at exhibition
 </div>
 
 

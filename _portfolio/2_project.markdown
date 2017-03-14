@@ -45,6 +45,6 @@ The concept is 'playing game, workout and interactive drawing at the same time'.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L4B_kiCrjv4" frameborder="0" allowfullscreen></iframe>
 </p>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/2626.jpg" alt="logo" title="logo"/>
+	<img class="col three" src="{{ site.baseurl }}/img/26.jpg" alt="logo" title="logo"/>
 </div>
 <br/>
