@@ -16,7 +16,7 @@ I took part in 2 performances: one is a sort of dance/movement using sound syste
 Another performance is my own solo. Using camera, audio system and handout etc. <br/><br/>
 The theme is about the fatigued-society these days, which makes people put on a mask to conceal themselves and makes them justify themselves to endure irrational situation and regard it as inevitable conditions.
 
-<br/>
+
 <img class="col three" src="/img/396.jpg" alt="during the performance" title="during the performance"/>
 
 about the group performance...
