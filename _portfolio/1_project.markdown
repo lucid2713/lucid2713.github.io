@@ -32,9 +32,6 @@ In the other side of the room, there was a screen which showed those photos, thu
 	<img class="col two" src="{{ site.baseurl }}/img/14.jpg" alt="" title="captured images on screen"/>
 	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="candy machine within hidden camera"/>
 </div>
-<div class="col three caption">
-	Screen and Machine
-</div>
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/13.jpg" alt="" title="exhibition image"/>
