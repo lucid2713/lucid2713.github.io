@@ -11,7 +11,7 @@ img: /img/8.jpg
 ***
 
 <br/>
-<img class="col three" src="/img/87.jpg" alt="" title="posters at final term exhibition"/>
+<img class="col three" src="/img/87.jpg" alt="posters at final term exhibition" title="posters at final term exhibition"/>
 
 <div class="col three caption">
 	Poster and comics
