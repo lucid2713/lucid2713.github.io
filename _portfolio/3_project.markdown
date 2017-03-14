@@ -24,14 +24,12 @@ The theme is about the fatigued-society these days, which makes people put on a 
 	<img class="col one" src="{{ site.baseurl }}/img/33.jpg" alt="text in resume 3" title="text in resume 3"/>
 </div>
 <div class="col three caption">
-	Handouts for the performance. The text was collected from the resume(CV) and cover letters for employment, written by young people currently in Korea, which are excessively self-promote.
+	Handouts for the performance. The text was collected from the resume(CV) and cover letters for employment, <br/>written by young people currently in Korea, which are excessively self-promote.
 </div>
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/35.jpg" alt="" title="during the performance"/>
 </div>
-<div class="col three caption">
-	during the solo performance
-</div>
+
 <br/>
 The solo performance 'Mask' was motivated by most of current situations that young people(in my age group) are facing in todays society. In the worst job markets, to win the cut-throat competition, young people are forced to to show off, package and sell themselves through one sheet of cover letter. It doesn't matter who we really are or rather people have to hide or cover up their individuality to become the very proper one in this unstable and changeable society.
 <br/><br/>
