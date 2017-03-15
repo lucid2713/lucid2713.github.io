@@ -26,6 +26,12 @@ Worked with 3 other colleagues as a project in the Processing class.<br/>
 </li>
 </ul>
 
+<br/>
+<p align="middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yPT85NFiVO4" frameborder="0" allowfullscreen></iframe>
+</p>
+<br/>
+
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/64.jpg" alt="settings" title="settings"/>
 	<img class="col one" src="{{ site.baseurl }}/img/66.png" alt="leap motion" title="leap motion"/>
@@ -34,10 +40,6 @@ Worked with 3 other colleagues as a project in the Processing class.<br/>
 <div class="col three caption">
 	Installation settings and the leap motion we used
 </div>
-<br/><br/>
 
-<p align="middle">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yPT85NFiVO4" frameborder="0" allowfullscreen></iframe>
-</p>
 
 <br/><br/><br/>
