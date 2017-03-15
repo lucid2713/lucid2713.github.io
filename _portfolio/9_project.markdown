@@ -28,7 +28,7 @@ Worked with 3 other colleagues as a project in the Processing class.<br/>
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/64.jpg" alt="settings" title="settings"/>
-	<img class="col one" src="{{ site.baseurl }}/img/65.jpg" alt="leap motion" title="leap motion"/>
+	<img class="col one" src="{{ site.baseurl }}/img/66.jpg" alt="leap motion" title="leap motion"/>
 </div>
 
 <div class="col three caption">
