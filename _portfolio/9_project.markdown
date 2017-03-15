@@ -30,7 +30,6 @@ Worked with 3 other colleagues as a project in the Processing class.<br/>
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yPT85NFiVO4" frameborder="0" allowfullscreen></iframe>
 </p>
-<br/>
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/64.jpg" alt="settings" title="settings"/>
