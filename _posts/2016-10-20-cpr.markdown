@@ -19,7 +19,9 @@ So participants should do CPR only when the manikin is on cardiac arrest situati
 ***
 
 <h4>Components</h4>
+<ul>
 CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speaker
+</ul>
 <br/>
 
 
@@ -33,18 +35,18 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 
 
 <h4>Design Structure</h4>
-<br/>
+<br/><br/>
 
 
 <h4>Installation</h4>
-<br/>
+<br/><br/>
 
 
 <h4>Demonstration</h4>
-<br/>
+<br/><br/>
 
 
-<br/>
+
 <h4>Source Codes</h4>
 <br/>
 <strong>Arduino source code 1</strong>: Setting sound systems and the status of manikin
@@ -374,7 +376,6 @@ void countPress(int temp) {
 
 <br/>
 <i>You can see the research report <a href="{{ site.baseurl }}/pdfs/CPRmanikinReports.pdf">here</a>.</i>
-<br/>
 
 <i>Here is our <a href="https://github.com/eunjeeSung/cpr" target="blank">Github repository</a>.</i>
 <br/><br/><br/>
