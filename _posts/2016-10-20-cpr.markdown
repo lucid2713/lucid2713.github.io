@@ -20,6 +20,7 @@ So participants should do CPR only when the manikin is on cardiac arrest situati
 
 <br/>
 <h4>Components</h4>
+<br/>
 <ul>
 CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speaker
 </ul>
@@ -27,8 +28,9 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 
 
 <h4>Description</h4>
+<br/>
 <ul>
-<li><strong>LED</strong>: is for showing manikin's face color - dark when it is dying, bright when being saved, flushed when revived</li>
+<li><strong>LED</strong> : is for showing manikin's face color - dark when it is dying, bright when being saved, flushed when revived</li>
 <li><strong>Pressure sensor</strong> : is made up of the velostat(conductive fabric) with foil for covering the area of manikin's chest</li>
 <li><strong>Sound systems</strong> : 3 status of manikin(drunken/epilepsy/cardiac arrest), 2 kinds of 100bpm music during cpr, error sound(died), applause(success)</li>
 </ul>
@@ -36,28 +38,26 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 
 
 <h4>Design Structure</h4>
-<br/><br/>
+<br/>
 <img class="col three" src="/img/ds3.png" alt="design structure" title="design structure"/>
 <div class="col three caption">
 	Design structure for interactive CPR manikin
 </div>
+<br/>
 
 <ul>
-<li>pressure sensor</li>
-<li>LED</li>
-<li>sound shield</li>
-<li>connect</li>
+<li><strong>Pressure Sensor</strong> : inside the chest of manikin</li>
+<li><strong>LED</strong> : attach on the cheek of manikin</li>
+<li><strong>Sound Shield</strong> : attach on the Arduino board to play sounds</li>
+<li><strong>Connect all things</strong> : Arduino board, Pressure Sensor, LED and Speaker</li>
 </ul>
-
-<br/><br/>
-
+<br/>
 
 <img class="col three" src="/img/ds2.png" alt="circuit image" title="circuit image"/>
 <div class="col three caption">
 	Arduino circuit image
 </div>
 
-<ul>description</ul>
 
 <br/><br/>
 
@@ -65,18 +65,44 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 <br/>
 <img class="col three" src="/img/installation.png" alt="installation images" title="installation images"/>
 <div class="col three caption">
-	installation
+	installation pictures
+	<br/><br/>
 </div>
 
 
-<br/><br/>
+
 
 
 <h4>Demonstration</h4>
-<br/><br/>
+<br/>
+<ol>
+Storyboard
+<li>111</li>
+<li>222</li>
+<li>333</li>
+<li>444</li>
+<li>555</li>
+<li>666</li>
+<li>777</li>
+</ol>
+<br/>
+
+
+
+<ul>rehearsal</ul>
+<br/>
+
+
 <img class="col three" src="/img/manikinCondition.png" alt="5 conditions of manikin" title="5 conditions of manikin"/>
 
-<ul>description</ul>
+<ul>
+different face colors according to conditions
+<li>a. <strong>off LED</strong> : before the incident / dead </li>
+<li>b. <strong>white</strong> : epilepsy </li>
+<li>c. <strong>purple</strong> : cardiac arrest</li>
+<li>d. <strong>light red</strong> : dead drunk</li>
+<li>e. <strong>strong red</strong> : successfully cope with all the situations including CPR</li>
+</ul>
 
 <br/><br/>
 <h4>Source Codes</h4>
