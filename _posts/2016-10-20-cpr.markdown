@@ -91,9 +91,12 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 
 
 
-<ul>rehearsal</ul>
+<ul><strong>Rehearsal</strong></ul>
 <br/>
+<img class="col three" src="/img/cprRehearsal-01.png" alt="rehearsal image1&2" title="rehearsal image1&2"/>
 
+<img class="col three" src="/img/cprRehearsal-02.png" alt="rehearsal image3&4" title="rehearsal image3&4"/>
+<br/>
 
 <img class="col three" src="/img/manikinCondition.png" alt="5 conditions of manikin" title="5 conditions of manikin"/>
 
