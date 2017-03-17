@@ -14,7 +14,7 @@ For example, There are three situations : <strong>drunken</strong>, <strong>epil
 <br/>
 So participants should do CPR only when the manikin is on cardiac arrest situation. If he/she do CPR when the manikin is drunken or epilepsy state, the device will die. Also when the trainee makes a good choice and then does CPR, it is checked if he/she presses the chest appropriately (in matters of both depth and speed). In case of success, the manikin will be revived and its face becomes bright with a burst of applause. X)
 </p>
-<br/>
+
 
 ***
 
@@ -50,7 +50,7 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 
 <h4>Source Codes</h4>
 <br/>
-<strong>Arduino source code 1</strong>: Setting sound systems and the status of manikin
+Arduino source code 1: <strong>Setting sound systems and the status of manikin</strong>
 
 {% highlight c++ %}
 
@@ -206,7 +206,7 @@ void loop() {
 {% endhighlight %}
 <br/>
 
-<strong>Arduino source code 2</strong>: Setting the LED color for the face of manikin
+Arduino source code 2: <strong>Setting the LED color for the face of manikin</strong>
 {% highlight c++ %}  
 
 void currentState(int state) {
@@ -312,7 +312,7 @@ void chestColor(int pressure) {
 
 <br/>
 
-<strong>Arduino source code 3</strong>: Setting the pressure sensor of manikin
+Arduino source code 3: <strong>Setting the pressure sensor of manikin</strong>
 {% highlight c++ %}  
 
 void setState() {
@@ -376,7 +376,7 @@ void countPress(int temp) {
 
 
 <br/>
-<i>You can see the research report <a href="{{ site.baseurl }}/pdfs/CPRmanikinReports.pdf">here</a>.</i>
+<i>You can see the research report(Korean) <a href="{{ site.baseurl }}/pdfs/CPRmanikinReports.pdf">here</a>.</i>
 
 <i>Here is our <a href="https://github.com/eunjeeSung/cpr" target="blank">Github repository</a>.</i>
 <br/><br/><br/>
