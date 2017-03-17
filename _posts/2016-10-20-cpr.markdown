@@ -56,17 +56,16 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 <img class="col three" src="/img/ds2.png" alt="circuit image" title="circuit image"/>
 <div class="col three caption">
 	Arduino circuit image
+	<br/><br/><br/>
 </div>
 
-
-<br/><br/>
 
 <h4>Installation</h4>
 <br/>
 <img class="col three" src="/img/installation.png" alt="installation images" title="installation images"/>
 <div class="col three caption">
 	installation pictures
-	<br/><br/>
+	<br/><br/><br/>
 </div>
 
 
@@ -76,7 +75,7 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 <h4>Demonstration</h4>
 <br/>
 <ol>
-Storyboard
+<strong>Storyboard</strong>
 <li>111</li>
 <li>222</li>
 <li>333</li>
@@ -96,12 +95,14 @@ Storyboard
 <img class="col three" src="/img/manikinCondition.png" alt="5 conditions of manikin" title="5 conditions of manikin"/>
 
 <ul>
+<div class="col three caption">
 different face colors according to conditions
-<li>a. <strong>off LED</strong> : before the incident / dead </li>
-<li>b. <strong>white</strong> : epilepsy </li>
-<li>c. <strong>purple</strong> : cardiac arrest</li>
-<li>d. <strong>light red</strong> : dead drunk</li>
-<li>e. <strong>strong red</strong> : successfully cope with all the situations including CPR</li>
+</div>
+<li><strong>a. off LED</strong> : before the incident  /  dead </li>
+<li><strong>b. white</strong> : epilepsy </li>
+<li><strong>c. purple</strong> : cardiac arrest</li>
+<li><strong>d. light red</strong> : dead drunk</li>
+<li><strong>e. strong red</strong> : successfully cope with all the situations including CPR</li>
 </ul>
 
 <br/><br/>
