@@ -47,10 +47,12 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 
 
 <ul>
+
 <li><strong>Pressure Sensor</strong> : inside the chest of manikin</li>
 <li><strong>LED</strong> : attach on the cheek of manikin</li>
 <li><strong>Sound Shield</strong> : attach on the Arduino board to play sounds</li>
 <li><strong>Connect all things</strong> : Arduino board, Pressure Sensor, LED and Speaker</li>
+
 </ul>
 <br/>
 
@@ -95,15 +97,19 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 
 <img class="col three" src="/img/manikinCondition.png" alt="5 conditions of manikin" title="5 conditions of manikin"/>
 
-<ul>
 <div class="col three caption">
 different face colors according to conditions
+<br/>
 </div>
+
+<ul>
+
 <li><strong>a. off LED</strong> : before the incident  /  dead </li>
 <li><strong>b. white</strong> : epilepsy </li>
 <li><strong>c. purple</strong> : cardiac arrest</li>
 <li><strong>d. light red</strong> : dead drunk</li>
 <li><strong>e. strong red</strong> : successfully cope with all the situations including CPR</li>
+
 </ul>
 
 <br/><br/>
