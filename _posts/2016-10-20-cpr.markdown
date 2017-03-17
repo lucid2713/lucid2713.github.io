@@ -18,6 +18,7 @@ So participants should do CPR only when the manikin is on cardiac arrest situati
 
 ***
 
+<br/>
 <h4>Components</h4>
 <ul>
 CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speaker
