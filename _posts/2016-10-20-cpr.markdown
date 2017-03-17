@@ -41,6 +41,7 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 <div class="col three caption">
 	Design structure for interactive CPR manikin
 </div>
+description
 <br/><br/>
 
 
@@ -48,16 +49,18 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 <div class="col three caption">
 	Arduino circuit image
 </div>
+description
 <br/><br/>
 
 <h4>Installation</h4>
+description
 <br/><br/>
 
 
 <h4>Demonstration</h4>
 <br/><br/>
 <img class="col three" src="/img/manikinCondition.png" alt="5 conditions of manikin" title="5 conditions of manikin"/>
-
+description
 
 <br/><br/>
 <h4>Source Codes</h4>
