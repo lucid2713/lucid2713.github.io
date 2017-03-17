@@ -43,8 +43,7 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 </div>
 
 <ul>description</ul>
-<
-br/><br/>
+<br/><br/>
 
 
 <img class="col three" src="/img/ds2.png" alt="circuit image" title="circuit image"/>
