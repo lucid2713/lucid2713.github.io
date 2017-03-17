@@ -78,13 +78,13 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 <br/>
 <ol>
 <strong>Storyboard</strong>
-<li>The user approaches the Manikin</li>
-<li>Listen to the sound of the Manikin, determine whether it is epilepsy, dead drunken or cardiac arrest </li>
-<li>If the situation is epilepsy or drunken, do not take any action</li>
-<li>If the situation is cardiac arrest, perform CPR 100 times</li>
-<li>100bpm of music is played when CPR begins</li>
-<li>Successful CPR would get applause</li>
-<li>If CPR doesn't last more than a few seconds with the insufficient pressure strength, get failure with the sound of dead </li>
+<li>The user approaches the Manikin.</li>
+<li>Listen to the sound of the Manikin, <br/>determine whether it is epilepsy, dead drunken or cardiac arrest. </li>
+<li>If the situation is epilepsy or drunken, do not take any action.</li>
+<li>If the situation is cardiac arrest, perform CPR 100 times.</li>
+<li>100bpm of music is played when CPR begins.</li>
+<li>Successful CPR would get applause.</li>
+<li>If CPR doesn't last more than a few seconds with the insufficient pressure strength, <br/>get failure with the sound of dead. </li>
 </ol>
 <br/>
 
