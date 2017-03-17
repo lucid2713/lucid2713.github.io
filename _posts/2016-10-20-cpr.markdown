@@ -6,21 +6,24 @@ description: A research and development for interactive manikin for CPR training
 ---
 This research was conducted as a self-study by three students in the department of Information Science and Culture. As one of them, I participated in the whole process of research and development during 4 month. (July to October, 2016)
 <p>
-The study aims to improve user experiences in CPR training. We set the <strong>target user as people who are getting retraining, so that they can remind how to CPR more effectively</strong>. It is designed to help participants <strong>decide whether the CPR is needed or not in particular situations</strong>.
+The study aims to improve user experiences in CPR training. We set the <strong>target user</strong> as <strong>people who are getting retraining</strong>, so that they can <strong>remind how to CPR more effectively</strong>.
 <br/>
-For example, There are three situations : <strong>drunken, epilepsy and cardiac arrest</strong>.
+It is designed to help participants <strong>decide whether the CPR is needed or not in particular situations</strong>.
 <br/>
-So participants should do CPR only when the manikin is on cardiac arrest situation. If he/she do CPR when the manikin is drunken or epilepsy state, the device will die. Also when the trainee makes a good choice and then does CPR, it is checked if he/she presses the chest appropriately(in matters of both depth and speed). In case of success, the manikin will be revived and its face becomes bright with a burst of applause. X)
+For example, There are three situations : <strong>drunken</strong>, <strong>epilepsy</strong> and <strong>cardiac arrest</strong>.
+<br/>
+So participants should do CPR only when the manikin is on cardiac arrest situation. If he/she do CPR when the manikin is drunken or epilepsy state, the device will die. Also when the trainee makes a good choice and then does CPR, it is checked if he/she presses the chest appropriately (in matters of both depth and speed). In case of success, the manikin will be revived and its face becomes bright with a burst of applause. X)
 </p>
 <br/>
 
+***
 
-<h5>Components</h5>
+<h4>Components</h4>
 CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speaker
 <br/>
 
 
-<h5>Description</h5>
+<h4>Description</h4>
 <ul>
 <li><strong>LED</strong>: is for showing manikin's face color - dark when it is dying, bright when being saved, flushed when revived</li>
 <li><strong>Pressure sensor</strong> : is made up of the velostat(conductive fabric) with foil for covering the area of manikin's chest</li>
@@ -29,22 +32,22 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 <br/>
 
 
-<h5>Design Structure</h5>
+<h4>Design Structure</h4>
 <br/>
 
 
-<h5>Installation</h5>
+<h4>Installation</h4>
 <br/>
 
 
-<h5>Demonstration</h5>
+<h4>Demonstration</h4>
 <br/>
 
 
 <br/>
-<h5>Source Codes</h5>
+<h4>Source Codes</h4>
 <br/>
-Arduino source code 1: Setting sound systems and the status of manikin
+<strong>Arduino source code 1</strong>: Setting sound systems and the status of manikin
 
 {% highlight c++ %}
 
@@ -200,7 +203,7 @@ void loop() {
 {% endhighlight %}
 <br/>
 
-Arduino source code 2: Setting the LED color for the face of manikin
+<strong>Arduino source code 2</strong>: Setting the LED color for the face of manikin
 {% highlight c++ %}  
 
 void currentState(int state) {
@@ -306,7 +309,7 @@ void chestColor(int pressure) {
 
 <br/>
 
-Arduino source code 3: Setting the pressure sensor of manikin
+<strong>Arduino source code 3</strong>: Setting the pressure sensor of manikin
 {% highlight c++ %}  
 
 void setState() {
@@ -369,7 +372,8 @@ void countPress(int temp) {
 ***
 
 
-<i>You can see the research report <a href={{ site.baseurl }}/pdfs/CPRmanikinReports.pdf">here</a>.</i>
+<br/>
+<i>You can see the research report <a href="{{ site.baseurl }}/pdfs/CPRmanikinReports.pdf">here</a>.</i>
 <br/>
 
 <i>Here is our <a href="https://github.com/eunjeeSung/cpr" target="blank">Github repository</a>.</i>
