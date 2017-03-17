@@ -62,9 +62,10 @@ I'm fond of cooking, drawing, dancing, strolling around, movies and all kinds of
 
 <ul>
 <strong>
-<a href="http://aiees.snu.ac.kr/greenleadership/website/index.php" target="blank">Green leadership Program</a></strong>
+Green leadership Program</strong>
 
-<li>Green leadership Certificate in Seoul National University, 2017</li>
+<li>
+<a href="http://aiees.snu.ac.kr/greenleadership/website/index.php" target="blank">Green leadership Certificate</a> in Seoul National University, 2017</li>
 <li>Internship at <a href="http://www.climatechangecenter.kr/" target="blank">Climate Change Center</a>(NGO in Korea), 2012</li>
 </ul>
 
