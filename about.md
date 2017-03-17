@@ -22,13 +22,13 @@ I'm fond of cooking, drawing, dancing, strolling around, movies and all kinds of
 <br/>
 
 <ul>
-Degree from Seoul National University, 2017
+<strong>Degree from Seoul National University, 2017</strong>
 <li>Bachelor of Arts in <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a></li>
 <li>Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information Science and Culture</a></li>
 </ul>
 
 <ul>
-Interactive media projects on ISC
+<strong>Interactive media projects on ISC</strong>
 
 <li>Pingpong Painting(interactive sports/game/drawing), 2015</li>
 <li>Color Your Voice(interactive installation), 2015</li>
@@ -37,7 +37,7 @@ Interactive media projects on ISC
 </ul>
 
 <ul>
-Research/Design on ISC
+<strong>Research/Design on ISC</strong>
 
 <li>A design for Internet Shopping Helper on Chrome extension, 2015</li>
 <li>Smart Shopping Bag and Cart(IoT research, thesis on ISC), 2015</li>
@@ -45,14 +45,14 @@ Research/Design on ISC
 </ul>
 
 <ul>
-Research on Sociology
+<strong>Research on Sociology</strong>
 
 <li>"Digital Fabrication Workshop - arts as well as a new social activity", research on New Art Activism and MAKE Workshops(thesis on Sociology), 2016</li>
 <li>"Community through the relationship, Art through the process", group research on Community Art in Eunpyeong District in Seoul, Korea, 2016</li>
 </ul>
 
 <ul>
-Other works
+<strong>Other works</strong>
 
 <li>SNU Hippie Generation(performance), 2012</li>
 <li>Meat Times series(videos etc), 2012~</li>
@@ -61,14 +61,15 @@ Other works
 </ul>
 
 <ul>
-<a href="http://aiees.snu.ac.kr/greenleadership/website/index.php" target="blank">Green leadership Program</a>
+<strong>
+<a href="http://aiees.snu.ac.kr/greenleadership/website/index.php" target="blank">Green leadership Program</a></strong>
 
 <li>Green leadership Certificate in Seoul National University, 2017</li>
 <li>Internship at <a href="http://www.climatechangecenter.kr/" target="blank">Climate Change Center</a>(NGO in Korea), 2012</li>
 </ul>
 
 <ul>
-Exhibition
+<strong>Exhibition</strong>
 
 <li>Group exhibition at Amway Gallery, 2016</li>
 <li>Exhibition in media-art-club <a href="http://www.cre8s.org/" target="blank">cre8s</a> at IdeaFactory, SNU, 2016</li>
@@ -83,7 +84,7 @@ Exhibition
 	<a href="https://github.com/lucid2713/" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://vimeo.com/user38129979/videos" target="_blank"><i class="fa fa-vimeo-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-facebook-official"></i></a>
+	<a href="https://www.facebook.com/lucid2713" target="_blank"><i class="fa fa-facebook-official"></i></a>
 </span>
 
 <div class="col three caption">
