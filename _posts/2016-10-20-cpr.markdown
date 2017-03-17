@@ -42,7 +42,13 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 	Design structure for interactive CPR manikin
 </div>
 
-<ul>description</ul>
+<ul>
+<li>pressure sensor</li>
+<li>LED</li>
+<li>sound shield</li>
+<li>connect</li>
+</ul>
+
 <br/><br/>
 
 
