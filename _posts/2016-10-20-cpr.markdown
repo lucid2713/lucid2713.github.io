@@ -47,6 +47,7 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 
 <br/>
 <ul>
+<br/>
 <li><strong>Pressure Sensor</strong> : inside the chest of manikin</li>
 <li><strong>LED</strong> : attach on the cheek of manikin</li>
 <li><strong>Sound Shield</strong> : attach on the Arduino board to play sounds</li>
