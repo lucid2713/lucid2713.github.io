@@ -17,7 +17,7 @@ The storyboard of the final result.
 </div>
 <br/><br/><br/>
 
-<object data="{{ site.baseurl }}/pdfs/SmartShoppingCartBag.pdf" width="100%" height="580" type="application/pdf"> <p>You can download the PDF file <a href={{ site.baseurl }}/pdfs/SmartShoppingCartBag.pdf">here</a>.</p>
+<object data="{{ site.baseurl }}/pdfs/SmartShoppingCartBag.pdf" width="100%" height="580" type="application/pdf"> <p>You can download the PDF file <a href="{{ site.baseurl }}/pdfs/SmartShoppingCartBag.pdf">here</a>.</p>
 </object>
 <br/>
 
