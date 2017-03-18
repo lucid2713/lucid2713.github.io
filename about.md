@@ -55,7 +55,7 @@ I'm fond of cooking, drawing, dancing, strolling around, movies and all kinds of
 <strong>Other works</strong>
 
 <li>SNU Hippie Generation(performance), 2012</li>
-<li>Meat Times series(videos etc), 2012~</li>
+<li>Meat Times series(videos etc), 2013-2016</li>
 <li>Agreed.(interactive installation), 2016</li>
 <li>Mask series(performance), 2016</li>
 </ul>
