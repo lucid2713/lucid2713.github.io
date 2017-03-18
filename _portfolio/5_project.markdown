@@ -5,7 +5,7 @@ description: video, drawing, interactive things
 img: /img/54.png
 ---
 
-<i>Meat Times, Series of video, drawing, interactive things, 2012-</i>
+<i>Meat Times, Series of video, drawing, interactive things, 2013-2016</i>
 
 ***
 
