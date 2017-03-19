@@ -72,8 +72,8 @@ Green leadership Program</strong>
 <ul>
 <strong>Exhibition</strong>
 
-<li>Group exhibition at Amway Gallery, 2016</li>
-<li>Exhibition in media-art-club <a href="http://www.cre8s.org/" target="blank">cre8s</a> at IdeaFactory, SNU, 2016</li>
+<li>Exhibition 'Diffusion' at Amway Art Museum, 26.02-19.03. 2016</li>
+<li>Exhibition 'Goodie' in media-art-club <a href="http://www.cre8s.org/" target="blank">cre8s</a> at IdeaFactory, SNU, 21-22.09. 2016</li>
 </ul>
 
 

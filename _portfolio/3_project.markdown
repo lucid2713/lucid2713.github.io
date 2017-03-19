@@ -53,7 +53,7 @@ It's awfully painful that confront, criticize, dig into and speak out against th
 </div>
 
 <div class="col three caption">
-	photos of the performance at exhibition
+	photos of the performance, exhibition at IdeaFactory
 </div>
 
 
