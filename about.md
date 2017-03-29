@@ -76,7 +76,7 @@ Green leadership Program</strong>
 <li>Exhibition 'Goodie' in media-art-club <a href="http://www.cre8s.org/" target="blank">cre8s</a> at IdeaFactory, SNU, 21-22.09. 2016</li>
 </ul>
 
-<br/>
+<br/><br/>
 <i>You can view CV in pdf <a href="{{ site.baseurl }}/pdfs/CVmina.pdf">here</a>.</i>
 
 <br/><br/>
