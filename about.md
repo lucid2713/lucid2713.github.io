@@ -77,7 +77,7 @@ Green leadership Program</strong>
 </ul>
 
 <br/><br/>
-<i>You can view CV in pdf <a href="{{ site.baseurl }}/pdfs/CVmina.pdf">here</a>.</i>
+<i>You can see CV in pdf <a href="{{ site.baseurl }}/pdfs/CVmina.pdf">here</a>.</i>
 
 <br/><br/>
 <hr/>
