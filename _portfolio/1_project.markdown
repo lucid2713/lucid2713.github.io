@@ -37,7 +37,8 @@ In the other side of the room, there was a screen which showed those photos, thu
 	<img class="col three" src="{{ site.baseurl }}/img/13.jpg" alt="" title="exhibition image"/>
 </div>
 <div class="col three caption">
-	Exhibition at Amway Art Museum, 2016
+	Amway Young Artist Project, Amway Art Museum, Seongnam-si, Korea, 2016
+
 </div>
 
 <br/><br/>

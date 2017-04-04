@@ -44,7 +44,7 @@ The four participants discussed about the topic together and expressed their fee
 <img class="col three" src="/img/399.jpg" alt="during the performance" title="during the performance"/>
 
 <div class="col three caption">
-	photos of the performance, exhibition at IdeaFactory
+	Exhibition 'Goodie', IdeaFactory in Seoul National University, Korea, 2016
 </div>
 
 <br/><br/><br/>
