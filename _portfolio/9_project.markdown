@@ -5,7 +5,7 @@ description: Interactive Installation(Leap Motion, Processing)
 img:
 ---
 
-<i>Starry Night, Interactive Installation(Leap Motion, Processing), 2015</i>
+<i>Starry Night, Interactive Installation (Leap Motion, Processing), 2015</i>
 
 ***
 
@@ -17,8 +17,8 @@ img:
 </div>
 
 
-Using leap motion, we can sweep out stars of the night sky in the screen toward two kinds of cloud. One is pink-colored cloud(left) and the other is gray-colored could(right). When cloud gets heavy, it falls down as flowered-rain(pink) or dust-rain(gray).<br/>
-Worked with 3 other colleagues as a project in the Processing class.<br/>
+Using leap motion, we can sweep out stars of the night sky in the screen toward two kinds of clouds. One is pink-colored cloud (left) and the other is gray-colored could (right). When cloud gets heavy, it falls down as flowered-rain (pink) or dust-rain (gray). <br/>
+Worked with three other colleagues as a project in the Processing class. <br/>
 
 #### I contributed to
 <ul>

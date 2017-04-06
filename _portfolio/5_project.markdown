@@ -15,8 +15,8 @@ img: /img/54.png
 <p align="middle"><a href="https://vimeo.com/205177007">MeatTimes4</a> from <a href="https://vimeo.com/user38129979">mina</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </p>
 
-I have had interest in the cruelty of 'factory-manufactured meat' for years. So I keep thinking about these theme and trying various ways of expression. <br/>
-I just tinkered with it through video, interactive materials and animation so far, but would like to develop them into more complete works.
+I have had interest in the cruelty of ‘factory-processed meat’ for years. So I keep thinking about this theme and try various ways of expression.  <br/>
+I just tinkered with it through video, interactive materials, and animation so far, but would like to develop them into more complete works.
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/52.jpg" alt="processing work" title="processing work"/>

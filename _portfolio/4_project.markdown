@@ -6,7 +6,7 @@ img:
 
 ---
 
-<i>Mask, performance(group), 2016</i>
+<i>Mask, performance (group), 2016</i>
 
 ***
 

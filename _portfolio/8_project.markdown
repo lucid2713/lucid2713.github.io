@@ -5,7 +5,7 @@ description: Interactive Installation(MAX MSP, Processing)
 img:
 ---
 
-<i>Color your voice, Interactive Installation(MAX MSP, Processing), 2015</i>
+<i>Color your voice, Interactive Installation (MAX MSP, Processing), 2015</i>
 
 ***
 
@@ -16,14 +16,14 @@ img:
 	<img class="col one" src="{{ site.baseurl }}/img/72.jpg" alt="" title="colored"/>
 </div>
 <div class="col three caption">
-	Outcome images. before changing(center, gray) and after(both side, colored)
+	Outcome images. before color change (center, gray) and after (both side, colored)
 </div>
 <br/>
 
-Worked with 2 other colleagues.<br/>
-The concept is 'express yourself by identifying your own color'. When participants speak through the microphone installed, computer receives data of voices such as frequency and tone. According to those figure, each face captured by the webcam is colored individually.
+Worked with two other colleagues. <br/>
+The concept is ‘express yourself by identifying your own color’. When participants speak through the installed microphone, computer receives data of voices such as frequency and tone. According to these figures, each face captured by the webcam is colored individually. 
 <br/>
-Participants can pick one of cards on board they're interested in, then read texts written back on it. The recitation becomes individual color.
+Participants can pick one of cards on the board they’re interested in, then read the texts written on the back of it. The recitation becomes individual color. 
 <br/>
 
 #### I contributed to

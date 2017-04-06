@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agreed.
-description: Installation(Arduino, Hidden camera, Web server, 3D printed parts)
+description: Installation (Arduino, Hidden camera, Web server, 3D printed parts)
 img: /img/16.png
 ---
 
@@ -17,9 +17,9 @@ img: /img/16.png
 </div>
 
 
-Worked with 2 other friends. We focused on how people easily agree with providing their personal information these days. <br/>
-We installed a candy machine, which a camera was built in but hidden on the outside. And there was a very light and pale sign next to the machine that let audience inform 'If you agree with taken pictures of you, turn the handle and get candies'. So when people turned the handle of the machine to get candies, the camera secretly took pictures of them. Most audience didn't see or notice the sign and just easily turned the knob.<br/>
-In the other side of the room, there was a screen which showed those photos, thus people could find their faces after enjoying candies.
+Worked with two other friends. We focused on how people easily agree to providing their personal information these days. <br/>
+We installed a candy machine, with a built-in camera hidden on the outside. There was a very light and pale sign next to the machine that read ‘If you agree to taking pictures of you, turn the handle and get candies’. So when people turned the handle of the machine to get candies, the camera secretly took pictures of them. Most audience didn’t see or notice the sign and just easily turned the knob. <br/>
+In the other side of the room, there was a screen which showed these photos, thus people could find their faces after enjoying candies. 
 <br/>
 
 #### I contributed to

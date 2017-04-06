@@ -18,9 +18,9 @@ img: /img/8.jpg
 </div>
 <br/>
 
-One of my friend and I worked with it. The concept of this performance was hippie, kitsch, comic and occupy.<br/>
-There was a story(believe it or not) about the central lawn in my university. Long ago, when students sat down on this lawn, playing and having a rest, the school's president at that time yelled at them "Get out of *my lawn* !" <br/>
-Therefore the lawn has been called "the president's lawn", and the place is always restricted to come in still now. Thus we intentionally got in the lawn and did some funny acts.
+One of my friend and I worked with it. The concept of this performance was hippie, kitsch, comic, and occupancy. <br/>
+There was a story (believe it or not) about the central lawn in my university. Long ago, when students sat down on this lawn, playing and having a rest, the school president at that time yelled at them "Get out of *my lawn* !" <br/>
+Therefore the lawn has been called “the president’s lawn”, and the place is always restricted for entrance even until now. Thus we intentionally went in the lawn and did some funny acts.
 
 
 <div class="img_row">

@@ -4,15 +4,15 @@ title: Interactive CPR Manikin
 date: 2016-10-20 00:00:00
 description: A research and development for interactive manikin for CPR training
 ---
-This research was conducted as a self-study by three students in the department of Information Science and Culture. As one of them, I participated in the whole process of research and development during 4 month. (July to October, 2016)
+This research was conducted as a self-study by three students in the department of Information Science and Culture. As one of them, I participated in the whole process of research and development for 4 months. (July to October, 2016)
 <p>
-The study aims to improve user experiences in CPR training. We set the <strong>target user</strong> as <strong>people who are getting retraining</strong>, so that they can <strong>remind how to CPR more effectively</strong>.
+The study aims to improve user experiences in CPR training. We set the <strong>target user</strong> as <strong>people who are getting retraining</strong>, so that they can be <strong>remind on how to conduct CPR more effectively</strong>.
 <br/>
 It is designed to help participants <strong>decide whether the CPR is needed or not in particular situations</strong>.
 <br/>
-For example, There are three situations : <strong>drunken</strong>, <strong>epilepsy</strong> and <strong>cardiac arrest</strong>.
+For example, There are three situations: <strong>drunken</strong>, <strong>epilepsy</strong>, and <strong>cardiac arrest</strong>.
 <br/>
-So participants should do CPR only when the manikin is on cardiac arrest situation. If he/she do CPR when the manikin is drunken or epilepsy state, the device will die. Also when the trainee makes a good choice and then does CPR, it is checked if he/she presses the chest appropriately (in matters of both depth and speed). In case of success, the manikin will be revived and its face becomes bright with a burst of applause. X)
+Participants should do CPR only when the manikin is on cardiac arrest situation. If he/she does CPR when the manikin is in a drunken or epileptic state, the device will die. Also when the trainee makes a good choice and then does CPR, whether he/she pressed the chest appropriately will be checked (in matters of both depth and speed). In case of success, the manikin will be revived and its face becomes bright with a burst of applause. X)
 </p>
 
 
@@ -22,7 +22,7 @@ So participants should do CPR only when the manikin is on cardiac arrest situati
 <h4>Components</h4>
 <br/>
 <ul>
-CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speaker
+CPR manikin, 2 Arduinos, Arduino-music-maker-shield, LED, pressure sensor, speaker
 </ul>
 <br/>
 
@@ -32,7 +32,7 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 <ul>
 <li><strong>LED</strong> : is for showing manikin's face color - dark when it is dying, bright when being saved, flushed when revived</li>
 <li><strong>Pressure sensor</strong> : is made up of the velostat(conductive fabric) with foil for covering the area of manikin's chest</li>
-<li><strong>Sound systems</strong> : 3 status of manikin(drunken/epilepsy/cardiac arrest), 2 kinds of 100bpm music during cpr, error sound(died), applause(success)</li>
+<li><strong>Sound systems</strong> : 3 status of manikin(drunken/epilepsy/cardiac arrest), 2 kinds of 100bpm music during CPR, error sound(died), applause(success)</li>
 </ul>
 <br/>
 
@@ -49,8 +49,8 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 <ul>
 <br/>
 <li><strong>Pressure Sensor</strong> : inside the chest of manikin</li>
-<li><strong>LED</strong> : attach on the cheek of manikin</li>
-<li><strong>Sound Shield</strong> : attach on the Arduino board to play sounds</li>
+<li><strong>LED</strong> : attached on the cheek of manikin</li>
+<li><strong>Sound Shield</strong> : attached on the Arduino board to play sounds</li>
 <li><strong>Connect all things</strong> : Arduino board, Pressure Sensor, LED and Speaker</li>
 
 </ul>
@@ -81,11 +81,11 @@ CPR manikin, 2 arduinos, arduino-music-maker-shield, LED, pressure sensor, speak
 <strong>Storyboard</strong>
 <li>The user approaches the Manikin.</li>
 <li>Listen to the sound of the Manikin, <br/>determine whether it is epilepsy, dead drunken or cardiac arrest. </li>
-<li>If the situation is epilepsy or drunken, do not take any action.</li>
+<li>If the situation is epileptic or drunken, do not take any action. </li>
 <li>If the situation is cardiac arrest, perform CPR 100 times.</li>
-<li>100bpm of music is played when CPR begins.</li>
+<li>Music of 100bpm is played when CPR begins.</li>
 <li>Successful CPR would get applause.</li>
-<li>If CPR doesn't last more than a few seconds with the insufficient pressure strength, <br/>get failure with the sound of dead. </li>
+<li>If CPR doesn't last more than a few seconds with due to insufficient pressure or strength, get failure with the sound of dead. </li>
 </ol>
 <br/>
 
