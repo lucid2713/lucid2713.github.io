@@ -32,7 +32,7 @@ The theme is about today’s fatigued-society, which makes people put on a mask 
 </div>
 
 <br/>
-The solo performance Mask was motivated by situations that most young people (in my age group) are currently facing in today’s society. In the worst job market situation, to win the cut-throat competition, young people are forced to show off, package, and sell themselves through only one sheet of cover letter. It doesn’t matter who we really are, or rather, people have to hide or cover up their individuality to make themselves perfectly suited to this unstable and changeable society. 
+The solo performance Mask was motivated by situations that most young people (in my age group) are currently facing in today’s society. In the worst job market situation, to win the cut-throat competition, young people are forced to show off, package, and sell themselves through only one sheet of cover letter. It doesn’t matter who we really are, or rather, people have to hide or cover up their individuality to make themselves perfectly fit in to this unstable and changeable society. 
 <br/><br/>
 It’s awfully painful to confront, criticize, dig into, and speak out against this matter, as I’m also one of those who are in that situation and have to find and take my place in the society. Nevertheless, I think it is much more distressing not to see what is underneath the surface and to just ignore the problem. So we should speak out so that we don’t lose ourselves and should not replicate the same society by being integrated into it.
 

@@ -23,7 +23,7 @@ img:
 
 Worked with two other colleagues as a study project. We used pingpong racket and balls but how the game was played is much similar to squash. <br/>
 The concept is ‘playing game, working out, and interactive drawing at the same time’. <br/>
-When we hit the ball towards the wall, a sensor attached on racket works and the Kinect detects the position of the ball. These sensed data are converted to drawing and is projected on the wall in real time. There is a time limit so after the game is done, participants can check and receive their drawing outcome. <br/>
+When participants hit the ball towards the wall, a sensor attached on racket works and the Kinect detects the position of the ball. These sensed data are converted to drawing and is projected on the wall in real time. There is a time limit so after the game is done, participants can check and receive the outcome in drawing. <br/>
 
 #### I contributed to
 <ul>
