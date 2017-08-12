@@ -25,4 +25,4 @@ collections:
     permalink: /portfolio/:path/
   notes:
     output: true
-    permalink: /notes/:path/
+    permalink: /others/:path/
