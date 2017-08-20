@@ -25,7 +25,7 @@ Every moments, our movement makes vibration whether we are recognize or not. And
 
 
 <br/>
-<img class="col three" src="/img/comecloser3.jpg" alt="come closer, installation" title="come closer, installation"/>
+<img class="col three" src="/img/comecloser5.jpg" alt="come closer, installation" title="come closer, installation"/>
 
 
 <br/>
