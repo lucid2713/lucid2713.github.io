@@ -28,7 +28,9 @@ Every moments, our movement makes vibration whether we are recognize or not. And
 <img class="col three" src="/img/comecloser5.jpeg" alt="picture of come closer, installation" title="picture of come closer, installation"/>
 
 
-<br/><br/>
+<br/>
+***
+<br/>
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ypGv_It0LKk" frameborder="0" allowfullscreen></iframe>
 </p>
