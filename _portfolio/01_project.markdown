@@ -14,7 +14,7 @@ img: /img/comecloser1.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gBZF0AGYk6o" frameborder="0" allowfullscreen></iframe>
 </p>
 
-As an interactive installation using leds, infrared sensor and arduino, this work was done for final show of 4 weeks workshop ‘Studies in Vibration’ in Berlin on May, 2017. The workshop was one of programs of School of MA(machines, making & make-believe), which is an independent art and technology school based on Berlin, Germany. <br/>
+As an interactive installation using leds, infrared sensor and arduino, this work was done for final show of 4 weeks workshop ‘Studies in Vibration’ in Berlin on May, 2017. The workshop was one of programs of <a href="http://http://schoolofma.org/" target="blank">School of MA</a>(machines, making & make-believe), which is an independent art and technology school based on Berlin, Germany. <br/>
 
 During these 4 weeks, with other participants from all over the world, I had taken lectures about physical phenomena related to vibration, which especially have connection with sound and light. <br/>
 
@@ -25,21 +25,15 @@ Every moments, our movement makes vibration whether we are recognize or not. And
 
 
 <br/>
-<img class="col three" src="/img/comecloser5.jpeg" alt="come closer, installation" title="come closer, installation"/>
+<img class="col three" src="/img/comecloser5.jpeg" alt="picture of come closer, installation" title="picture of come closer, installation"/>
 
 
-<br/>
+<br/><br/>
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ypGv_It0LKk" frameborder="0" allowfullscreen></iframe>
 </p>
 <div class="col three caption">
 	Final show of ‘Studies in Vibration’, Spektrum, Berlin, Germany, 2017
 </div>
-
-
-<br/>
-<ul>
-<li><a href="http://http://schoolofma.org/" target="blank">School of MA</a></li>
-</ul>
 
 <br/><br/><br/>
