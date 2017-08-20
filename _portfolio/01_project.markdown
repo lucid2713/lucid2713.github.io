@@ -30,14 +30,5 @@ Every moments, our movement makes vibration whether we are recognize or not. And
 <div class="col three caption">
 	Final show of ‘Studies in Vibration’, Spektrum, Berlin, Germany, 2017
 </div>
-<br/>
-
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/comecloser3.jpg" alt="example image1" title="example image1"/>
-	<img class="col one" src="{{ site.baseurl }}/img/comecloser4.jpg" alt="example image2" title="example image2"/>
-</div>
-
-
-
 
 <br/><br/><br/>
