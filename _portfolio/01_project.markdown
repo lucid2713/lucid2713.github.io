@@ -31,4 +31,16 @@ Every moments, our movement makes vibration whether we are recognize or not. And
 	Final show of ‘Studies in Vibration’, Spektrum, Berlin, Germany, 2017
 </div>
 
+<br/>
+<p align="middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ypGv_It0LKk" frameborder="0" allowfullscreen sandbox></iframe>
+</p>
+<div class="col three caption">
+	Final show of ‘Studies in Vibration’, Spektrum, Berlin, Germany, 2017
+</div>
+
+<ul>
+<li><a href="http://http://schoolofma.org/" target="blank">School of MA</a></li>
+</ul>
+
 <br/><br/><br/>
