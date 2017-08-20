@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Come Closer
-description: Interactive Installation(Arduino)
-img: /img/comecloser1.jpg
+title: Starry Night
+description: Interactive Installation(Leap Motion, Processing)
+img:
 ---
 
-<i>Come Closer, Interactive Installation (Arduino), 2017</i>
+<i>Starry Night, Interactive Installation (Leap Motion, Processing), 2015</i>
 
 ***
 
@@ -17,11 +17,12 @@ img: /img/comecloser1.jpg
 </div>
 
 
-This work is the final outcome of 4 weeks workshop, 'Studies in Vibration' in Berlin, at School of MA <br/>
+Using leap motion, we can sweep out stars of the night sky in the screen toward two kinds of clouds. One is pink-colored cloud (left) and the other is gray-colored could (right). When cloud gets heavy, it falls down as flowered-rain (pink) or dust-rain (gray). <br/>
+Worked with three other colleagues as a project in the Processing class. <br/>
 
-
+#### I contributed to
 <ul>
-<li>image
+<li>image design and coding Processing
 </li>
 </ul>
 
@@ -38,7 +39,7 @@ This work is the final outcome of 4 weeks workshop, 'Studies in Vibration' in Be
 </div>
 
 <div class="col three caption">
-	Installation settings
+	Installation settings and the leap motion we used
 </div>
 
 
