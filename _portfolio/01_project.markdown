@@ -24,13 +24,11 @@ Thus when a person come closer to the balloon flowers, they start to greets him/
 Every moments, our movement makes vibration whether we are recognize or not. And this vibration reaches somewhere. Thus although there is no touch or contact between 2 objects, the connection takes place indeed.
 
 
-<br/>
+
+<p>
 <img class="col three" src="/img/comecloser5.jpeg" alt="picture of come closer, installation" title="picture of come closer, installation"/>
+</p>
 
-
-<br/>
-
-***
 
 <br/>
 <p align="middle">
