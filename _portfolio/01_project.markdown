@@ -2,7 +2,7 @@
 layout: post
 title: Come Closer
 description: Interactive Installation(Arduino)
-img: /img/comecloser1.jpg
+img: /img/comecloser1.png
 ---
 
 <i>Come Closer, Interactive Installation (Arduino), 2017</i>
