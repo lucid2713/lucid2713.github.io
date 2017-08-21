@@ -76,6 +76,7 @@ Green leadership Program</strong>
 <li>'Goodie', IdeaFactory in Seoul National University, Korea, 21-22.09.2016
 <br/>at media-art-club <a href="http://www.cre8s.org/" target="blank">cre8s</a>
 </li>
+<li>Final show of ‘Studies in Vibration’, Spektrum, Berlin, Germany, 26.05.2017</li>
 </ul>
 
 <br/><br/>
