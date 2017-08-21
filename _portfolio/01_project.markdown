@@ -31,9 +31,10 @@ Every moments, our movement makes vibration whether we are recognize or not. And
 </div>
 
 
-<br/>
+
 
 ***
+
 
 <br/>
 <div>
