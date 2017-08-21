@@ -34,10 +34,7 @@ Every moments, our movement makes vibration whether we are recognize or not. And
 </div>
 
 
-***
-
-
-<br/>
+<br/><br/>
 <div>
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ypGv_It0LKk" frameborder="0" allowfullscreen></iframe>
