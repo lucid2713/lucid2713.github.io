@@ -11,8 +11,9 @@ img: /img/comecloser1.png
 
 <br/>
 <p align="middle">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gBZF0AGYk6o" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/230491558" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
+
 
 As an interactive installation using leds, infrared sensor and arduino, this work was done for final show of 4 weeks workshop ‘Studies in Vibration’ in Berlin on May, 2017. The workshop was one of programs of <a href="http://schoolofma.org" target="blank">School of MA</a>(machines, making & make-believe), which is an independent art and technology school based on Berlin, Germany. <br/>
 
