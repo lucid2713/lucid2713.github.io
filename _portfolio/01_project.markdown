@@ -29,8 +29,9 @@ Every moments, our movement makes vibration whether we are recognize or not. And
 <div>
 <img class="col three" src="/img/comecloser5.jpeg" alt="picture of come closer, installation" title="picture of come closer, installation"/>
 </div>
+<div class="col three caption">
 
-
+</div>
 
 
 ***
