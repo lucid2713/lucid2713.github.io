@@ -12,15 +12,16 @@ Description of the class can be found <a href="http://schoolofma.org/internet-de
 <br/>
 Instructor : <a href="http://janavirgin.com/" target="blank">Joana Moll</a>
 </p>
-<br/>
+
 
 ***
 
+<br/>
 <h4>Contents of the course</h4>
 <br/>
 
 
-<h4>Informative links from Regine</h4>
+<h4>Informative links from Joana</h4>
 <br>
 
 

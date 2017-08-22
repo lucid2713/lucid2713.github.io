@@ -12,10 +12,10 @@ Description of the class can be found <a href="http://schoolofma.org/mapping-of/
 <br/>
 Instructor : <a href="http://we-make-money-not-art.com/" target="blank">Regine Debatty</a>
 </p>
-<br/>
 
 ***
 
+<br/>
 <h4>Contents of the course</h4>
 <br/>
 
