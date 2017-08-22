@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Internet, Deconstructed
-date: 2017-08-22 00:00:00
+description: Online course of School of MA
 ---
 
 <br/>
@@ -22,8 +22,8 @@ Instructor : <a href="http://janavirgin.com/" target="blank">Joana Moll</a>
 
 
 <h4>Informative links from Joana</h4>
-<br>
+<br/>
 
 
-
+<br/><br/>
 ### The Internet, Deconstructed

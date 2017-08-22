@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Mapping of Socially-Engaged<br/><br/> Creative Practices
-date: 2017-08-22 00:00:00
+description: Online course of School of MA
 ---
 
 <br/>
@@ -21,8 +21,8 @@ Instructor : <a href="http://we-make-money-not-art.com/" target="blank">Regine D
 
 
 <h4>Informative links from Regine</h4>
-<br>
+<br/>
 
 
-
+<br/><br/>
 ### A Mapping of Socially-Engaged Creative Practices
