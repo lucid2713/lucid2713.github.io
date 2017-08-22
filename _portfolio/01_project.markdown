@@ -15,7 +15,7 @@ img: /img/comecloser1.png
 </p>
 
 
-As an interactive installation using leds, infrared sensor and arduino, this work was done for final show of 4 weeks workshop ‘Studies in Vibration’ in Berlin on May, 2017. The workshop was one of programs of <a href="http://schoolofma.org" target="blank">School of MA</a>(machines, making & make-believe), which is an independent art and technology school based on Berlin, Germany. <br/>
+As an interactive installation using leds, infrared sensor and arduino, this work was done for final show of 4 weeks workshop ‘<a href="http://schoolofma.org/studies-in-vibration/" target="blank">Studies in Vibration</a>’ in Berlin on May, 2017. The workshop was one of programs of <a href="http://schoolofma.org" target="blank">School of MA</a>(machines, making & make-believe), which is an independent art and technology school based on Berlin, Germany. <br/>
 
 During these 4 weeks, with other participants from all over the world, I had taken lectures about physical phenomena related to vibration, which especially have connection with sound and light. <br/>
 
