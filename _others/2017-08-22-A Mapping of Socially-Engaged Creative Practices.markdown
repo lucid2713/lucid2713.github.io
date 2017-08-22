@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Mapping of Socially-Engaged<br/> Creative Practices
+title: A Mapping of Socially-Engaged<br/><br/> Creative Practices
 date: 2017-08-22 00:00:00
 ---
 
