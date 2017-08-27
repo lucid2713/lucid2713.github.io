@@ -15,7 +15,7 @@ date: 2017-08-22 00:00:00
 <li>Technology and Design and their impact on environment</li>
 <li>Open Technology / Open Science</li>
 <li>Mobile devices as a platform</li>
-<li>Pervasive technology and its visibility as well as invisibility</li>
+<li>Pervasive Internet and its visibility as well as invisibility</li>
 </ul>
 
 <br/><br/>
