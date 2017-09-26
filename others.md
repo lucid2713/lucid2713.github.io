@@ -1,15 +1,15 @@
 ---
 layout: page
-permalink: /others/
-title: others
-description: other stuffs
+permalink: /notes/
+title: notes
+description: notes for research and project
 ---
 
 <ul class="post-list">
-{% for others in site.others reversed %}
+{% for notes in site.notes reversed %}
     <li>
-        <h2><a class="others-title" href="{{ others.url | prepend: site.baseurl }}">{{ others.title }}</a></h2>
-        <p class="post-meta">{{ others.date | date: '%B %-d, %Y — %H:%M' }}</p>
+        <h2><a class="notes-title" href="{{ notes.url | prepend: site.baseurl }}">{{ notes.title }}</a></h2>
+        <p class="post-meta">{{ notes.date | date: '%B %-d, %Y — %H:%M' }}</p>
       </li>
 {% endfor %}
 </ul>

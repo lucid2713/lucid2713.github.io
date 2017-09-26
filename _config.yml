@@ -24,6 +24,6 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  others:
+  notes:
     output: true
-    permalink: /others/:path/
+    permalink: /notes/:path/
