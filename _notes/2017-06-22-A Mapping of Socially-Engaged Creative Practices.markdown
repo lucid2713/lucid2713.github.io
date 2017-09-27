@@ -60,7 +60,7 @@ https://www.artsy.net/article/artsy-editorial-venice-biennale-artists-numbers" t
 <a href="http://creativetime.org/programs/archive/2011/livingasform/archive.htm" target="blank">Living as Form</a>
 </li>
 <li>
-Congo copper phone, <a href="http://www.maartenvandeneynde.com/?rd_project=malachite-mobiles&lang=en" target="blank">‘Malachite Mobiles’</a>, Maarten Vanden Eynde : Considering ethical problems along with the IT technology..
+Congo copper phone, <a href="http://www.maartenvandeneynde.com/?rd_project=malachite-mobiles&lang=en" target="blank">‘Malachite Mobiles’, Maarten Vanden Eynde</a> : Considering ethical problems along with the IT technology..
 </li>
 <li>
 <a href="https://tacticaltech.org/" target="blank">Tactical Technology Collective</a>
