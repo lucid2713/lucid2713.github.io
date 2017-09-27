@@ -77,7 +77,21 @@ Congo copper phone, <a href="http://www.maartenvandeneynde.com/?rd_project=malac
 
 <a href="http://theinfluencers.org/en/node/1857" target="blank">The influence festival</a>
 
+</p>
 
+<p>
+<strong>2nd Week</strong>
+<br/>
+</p>
+
+<p>
+<strong>3rd Week</strong>
+<br/>
+</p>
+
+<p>
+<strong>4th Week</strong>
+<br/>
 </p>
 
 ***
