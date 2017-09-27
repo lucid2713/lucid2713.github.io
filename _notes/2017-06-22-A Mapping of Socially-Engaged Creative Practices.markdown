@@ -24,7 +24,7 @@ Instructor : <a href="http://we-make-money-not-art.com/" target="blank">Regine D
 <h4>Informative links from Regine</h4>
 <br>
 <p>
-<h5>1st Week</h5>
+<strong>1st Week</strong>
 
 Regine's Blog <a href="http://we-make-money-not-art.com/" target="blank">We Make Money Not Art</a>
 <br/><br/>
