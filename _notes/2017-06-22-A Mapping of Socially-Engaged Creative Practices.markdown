@@ -22,6 +22,7 @@ Instructor : <a href="http://we-make-money-not-art.com/" target="blank">Regine D
 
 ***
 
+<br/>
 <h4>Informative links from Regine</h4>
 <br/>
 <p>
