@@ -83,16 +83,28 @@ Congo copper phone, <a href="http://www.maartenvandeneynde.com/?rd_project=malac
 <p>
 <strong>2nd Week</strong>
 <br/>
+<ul>
+  <ul>
+  </ul>
+</ul>
 </p>
 
 <p>
 <strong>3rd Week</strong>
 <br/>
+<ul>
+  <ul>
+  </ul>
+</ul>
 </p>
 
 <p>
 <strong>4th Week</strong>
 <br/>
+<ul>
+  <ul>
+  </ul>
+</ul>
 </p>
 
 ***
