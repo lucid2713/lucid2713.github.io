@@ -28,8 +28,9 @@ Instructor : <a href="http://we-make-money-not-art.com/" target="blank">Regine D
 <p>
 <strong>1st Week</strong>
 <br/>
+<ul>
 Regine's Blog <a href="http://we-make-money-not-art.com/" target="blank">We Make Money Not Art</a>
-<br/><br/>
+<br/>
 
 Art-Activism
 <ul>
@@ -76,7 +77,7 @@ Congo copper phone, <a href="http://www.maartenvandeneynde.com/?rd_project=malac
 </ul>
 
 <a href="http://theinfluencers.org/en/node/1857" target="blank">The influence festival</a>
-
+</ul>
 </p>
 
 <p>
