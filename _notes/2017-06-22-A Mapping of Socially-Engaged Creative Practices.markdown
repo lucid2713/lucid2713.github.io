@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Mapping of Socially-Engaged<br/><br/> Creative Practices
+title: A Mapping of Socially-Engaged Creative Practices
 description: Online course of School of MA
 date: 2017-09-27 19:13:00
 ---
@@ -22,14 +22,15 @@ Instructor : <a href="http://we-make-money-not-art.com/" target="blank">Regine D
 
 
 <h4>Informative links from Regine</h4>
+<br>
 <p>
-<h3>1st Week</h3>
+<h5>1st Week</h5>
 
 Regine's Blog <a href="http://we-make-money-not-art.com/" target="blank">We Make Money Not Art</a>
-<br/>
+<br/><br/>
 
-<ul>
 Art-Activism
+<ul>
 <li>
 <a href="https://www.theguardian.com/science/the-h-word/2016/sep/12/ars-electronica-festival-gender
 https://www.artsy.net/article/artsy-editorial-venice-biennale-artists-numbers" target="blank">Art electronica women discrimination?</a>
@@ -72,11 +73,15 @@ Congo copper phone, <a href="http://www.maartenvandeneynde.com/?rd_project=malac
 </li>
 </ul>
 
-<ul>
+<br/>
 <a href="http://theinfluencers.org/en/node/1857" target="blank">The influence festival</a>
-</ul>
+
 
 </p>
+
+***
+
+
 <br/>
 
 
