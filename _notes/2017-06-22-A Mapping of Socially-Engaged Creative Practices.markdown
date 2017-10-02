@@ -85,11 +85,11 @@ Congo copper phone, <a href="http://www.maartenvandeneynde.com/?rd_project=malac
 <br/>
 <ul>
 Socially engaged Art, Science, Technology and Activism
-<li>
-<a href="http://making-sense.eu/" target="blank">Making Sense</a> : open source software and hardware, digital maker practices, open design and local communities / environmental problems in air, water, soil and sound pollution
-</li>
-
-E-Waste
+  <li>
+  <a href="http://making-sense.eu/" target="blank">Making Sense</a> : open source software and hardware, digital maker practices, open design and local communities / environmental problems in air, water, soil and sound pollution
+  </li>
+  <li>
+  E-Waste
   <ul>
     <li>
     <a href="http://www.compoundchem.com/2014/02/19/the-chemical-elements-of-a-smartphone/" target="blank">Elements of a Smartphone</a> : Infographics
@@ -134,6 +134,7 @@ E-Waste
     <a href="http://www.e-waste-performance.net/home.html" target="blank">E-waste performance</a>, Dani Ploeger, project blog
     </li>
   </ul>
+  </li>
 </ul>
 </p>
 
