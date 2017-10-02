@@ -85,10 +85,9 @@ Congo copper phone, <a href="http://www.maartenvandeneynde.com/?rd_project=malac
 <br/>
 <ul>
 Socially engaged Art, Science, Technology and Activism
-<ul>
+<li>
 <a href="http://making-sense.eu/" target="blank">Making Sense</a> : open source software and hardware, digital maker practices, open design and local communities / environmental problems in air, water, soil and sound pollution
-<ul/>
-<br/>
+</li>
 
 E-Waste
   <ul>
