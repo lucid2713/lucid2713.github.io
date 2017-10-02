@@ -84,7 +84,54 @@ Congo copper phone, <a href="http://www.maartenvandeneynde.com/?rd_project=malac
 <strong>2nd Week</strong>
 <br/>
 <ul>
+Socially engaged Art, Science, Technology and Activism
+<a href="http://making-sense.eu/" target="blank">Making Sense</a> : open source software and hardware, digital maker practices, open design and local communities / environmental problems in air, water, soil and sound pollution
+<br/>
+
+E-Waste
   <ul>
+    <li>
+    <a href="http://www.compoundchem.com/2014/02/19/the-chemical-elements-of-a-smartphone/" target="blank">Elements of a Smartphone</a> : Infographics
+    </li>
+    <li>
+    <a href="http://www.compoundchem.com/2015/09/15/recycling-phone-elements/" target="blank">Recycling Rate of a Smartphone Metals</a> : Infographics
+    </li>
+    <li>
+    <a href="http://www.ceciliajonsson.com/index.php?/inside/the-iron-ring/" target="blank">The Iron Ring</a>, 2013, Cecilia Jonsson
+    </li>
+    <li>
+    <a href="http://www.jeremyhutchison.com/work/project47.html" target="blank">Err</a>, Jeremy Hutchison
+    </li>
+    <li>
+    <a href="http://www.lisama.co.uk/works/2014/12/18/farmification" target="blank">Farmification</a>, Lisa Ma
+    </li>
+    <li>
+    <a href="http://phonestory.org" target="blank">Phone story</a>, Mobile Game showing problems embedded in smart phone - coltan, suicides, obsolescence and eWaste.
+    </li>
+    <li>
+    <a href="https://www.benrobertsphotography.com/work/amazon-unpacked/#4316" target="blank">Amazon Unpacked</a>, Ben Roberts
+    </li>
+    <li>
+    <a href="https://www.shareable.net/sharing-cities-toolkit" target="blank">Shareable</a>
+    </li>
+    <li>
+    <a href="http://www.greenpeace.org/international/en/campaigns/detox/electronics/the-e-waste-problem/where-does-e-waste-end-up/" target="blank">Who does e-waste end up?</a>, Greenpeace
+    </li>
+    <li>
+    <a href="http://kevin-mcelvaney.com/portfolio/agbogbloshie/" target="blank">Agbogbloshie</a>, Kevin-Mcelvaney
+    </li>
+    <li>
+    <a href="https://www.andrewmcconnell.com/Rubbish-Dump-2-0/1" target="blank">Rubbish Dump 2.0</a>, Andrew McConnel
+    </li>
+    <li>
+    <a href="https://www.fairphone.com/en/" target="blank">Fair phone</a>
+    </li>
+    <li>
+    <a href="https://www.daniploeger.org/" target="blank">Back to sender</a>, 2014, Dani Ploeger
+    </li>
+    <li>
+    <a href="http://www.e-waste-performance.net/home.html" target="blank">E-waste performance</a>, Dani Ploeger, project blog
+    </li>
   </ul>
 </ul>
 </p>
