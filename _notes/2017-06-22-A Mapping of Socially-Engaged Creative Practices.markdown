@@ -2,7 +2,7 @@
 layout: post
 title: A Mapping of Socially-Engaged Creative Practices
 description: Online course of School of MA
-date: 2017-09-27 19:13:00
+date: 2017-10-02 13:18:00
 ---
 
 <br/>
@@ -85,7 +85,9 @@ Congo copper phone, <a href="http://www.maartenvandeneynde.com/?rd_project=malac
 <br/>
 <ul>
 Socially engaged Art, Science, Technology and Activism
+<ul>
 <a href="http://making-sense.eu/" target="blank">Making Sense</a> : open source software and hardware, digital maker practices, open design and local communities / environmental problems in air, water, soil and sound pollution
+<ul/>
 <br/>
 
 E-Waste
