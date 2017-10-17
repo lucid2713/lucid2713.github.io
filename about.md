@@ -7,12 +7,12 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 
-Hi, My name is Min-a Kim.
-I was born in Busan, South Korea and had lived in there until 18 years old. Currently I live in Seoul.
+I'm Mina from South Korea. Currently I live in Groningen, Netherlands, studying master in MADtech(media, art, design and technology) at Frank Mohr Institute, Art Academy Minerva.
 
-I'm highly interested in Art and Technology these days, so I'm thinking of taking further studies associated with that field. I also have interests in the environment and ecology, movement and body, digital society, human-computer interaction, media art and design, digital activism and hacktivism.
+I'm highly interested in Art and Technology, especially where the interaction between human and computer takes place. I would like to dig into these area with an artistic perspective.
+And I'm also into the environment and ecology, movement and body, digital society, digital activism and hacktivism.
 
-I'm fond of cooking, drawing, dancing, strolling around, movies and all kinds of music, and would like to try new things- whatever excites me. But, I prefer small and humble things to brand-new and fancy ones. :)
+I'm enthusiastic in trying new things whatever excites me. But, I prefer small and humble things to brand-new and fancy ones. :)
 <br/>
 
 ***
