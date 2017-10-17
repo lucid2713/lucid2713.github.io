@@ -8,7 +8,7 @@ date: 2017-10-17 16:23:00
 <br/>
 
 MALMAL means 'bad word', combining the french adjective 'mal'(bad) with the same sounds word in Korean '말mal'(word or language). I had worked for this idea before by making iOS application, but now I keep working with this concept for another expression using another materials.
-<br/>
+<br/><br/>
 
 <div>
 <img class="col three" src="/img/malmal-design-framework.jpg" alt="malmal-design-framework" title="malmal-design-framework"/>
@@ -29,9 +29,10 @@ Until now I've working with MaxMSP to trigger sounds and videos, and tested a pr
 <div class="col three caption">
 <i>MalMal(Bad words), practice with projection mapping</i>
 </div>
-<br/><br/>
+<br/><br/><br/>
 
-<h3>These are my to-do-list</h3>
+<h4>These are my to-do-list</h4>
+<br/>
 <ul>
 <li>Devise more intuitive interaction of artwork with audience(participant)</li>
 <li>Design sounds and videos(more or newly)</li>
@@ -40,7 +41,8 @@ Until now I've working with MaxMSP to trigger sounds and videos, and tested a pr
 </ul>
 <br/>
 
-<h3>research for related (art)works</h3>
+<h4>research for related (art)works</h4>
+<br/>
 There are several works which has similar subject as well as works that has really intuitive and effective interaction for delivering its meaning.
 <br/>
 <ul>
