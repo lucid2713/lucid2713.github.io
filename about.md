@@ -13,7 +13,7 @@ I'm highly interested in Art and Technology, especially where the interaction be
 And I'm also into the environment and ecology, movement and body, digital society, digital activism and hacktivism.
 
 I'm enthusiastic in trying new things whatever excites me. But, I prefer small and humble things to brand-new and fancy ones. :)
-<br/>
+<br/><br/>
 
 ***
 <br/>
