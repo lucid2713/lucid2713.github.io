@@ -7,7 +7,8 @@ date: 2017-10-17 16:23:00
 
 <br/>
 
-MALMAL means 'bad word', combining the french adjective 'mal'(bad) with the same sounds word in Korean '말mal'(word or language). I had worked for this idea before by making <a href="https://projectintheclass.github.io/MinApp/" target="blank">iOS application</a>, but now I keep working with this concept for another expression using another materials.
+MALMAL means 'bad word', combining the french adjective 'mal'(bad) with the same sounds word in Korean '말mal'(word or language).<br/>
+I had worked for this idea before by making <a href="https://projectintheclass.github.io/MinApp/" target="blank">iOS application</a>, but now I keep working with this concept for another expression using another materials.
 <br/><br/>
 
 <div>
@@ -20,7 +21,7 @@ Design framework for MalMal (MaxMSP version)
 <br/><br/>
 
 So the basic ideation is illustrated on the framework above, but still finding and thinking of more effective way of interaction and delivery of intention.
-<br/>
+<br/><br/>
 Until now I've working with MaxMSP to trigger sounds and videos, and tested a projection mapping with videos I made.  
 <br/><br/>
 <p align="middle">
