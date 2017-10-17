@@ -6,14 +6,14 @@ permalink: /about/
 
 <img class="col one right" src="/img/prof_pic.jpg">
 
-
+<br/>
 I'm Mina from South Korea. Currently I live in Groningen, Netherlands, studying master in MADtech(media, art, design and technology) at Frank Mohr Institute, Art Academy Minerva.
 
 I'm highly interested in Art and Technology, especially where the interaction between human and computer takes place. I would like to dig into these area with an artistic perspective.
 And I'm also into the environment and ecology, movement and body, digital society, digital activism and hacktivism.
 
 I'm enthusiastic in trying new things whatever excites me. But, I prefer small and humble things to brand-new and fancy ones. :)
-<br/><br/>
+<br/>
 
 ***
 <br/>
