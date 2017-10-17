@@ -1,20 +1,57 @@
 ---
 layout: post
-title: MalMal projection mapping practice
-description: Project ongoing
-date: 2017-10-17 10:26:00
+title: MALMAL, ongoing project, 2017
+description: Projection mapping test and MaxMSP
+date: 2017-10-17 16:23:00
 ---
 
 <br/>
 
-<i>MalMal(Bad words), practice with projection mapping</i>
-<br/><br/>
+MALMAL means 'bad word', combining the french adjective 'mal'(bad) with the same sounds word in Korean '말mal'(word or language). I had worked for this idea before by making iOS application, but now I keep working with this concept for another expression using another materials.
 
+
+<div>
+<img class="col three" src="/img/malmal-design-framework.jpg" alt="malmal-design-framework" title="malmal-design-framework"/>
+</div>
+<div class="col three caption">
+Design framework for MalMal (MaxMSP version)
+</div>
+
+<br/>
+
+So the basic ideation is illustrated on the framework above, but still finding and thinking of more effective way of interaction and delivery of intention.
+<br/>
+Until now I've working with MaxMSP to trigger sounds and videos, and tested a projection mapping with videos I made.  
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zbgwndtapbs" frameborder="0" allowfullscreen></iframe>
 </p>
+<div class="col three caption">
+<i>MalMal(Bad words), practice with projection mapping</i>
+</div>
+<br/>
 
+#### These are my to-do-list.
+<ul>
+<li>Devise more intuitive interaction of artwork with audience(participant)</li>
+<li>Design sounds and videos(more or newly)</li>
+<li>Figure out proper tools : still gonna use max? if so, for which interaction?</li>
+<li>The way of presenting</li>
+</ul>
+<br/>
 
+#### research for related (art)works
+There are several works which has similar subject as well as works that has really intuitive and effective interaction for delivering its meaning.
+<ul>
+Good reference for intuitive interaction
+<li><a href="http://www.begomsantiago.com/LITTLE-BOXES" target="blank">Little Boxes</a>, Bego M. Santiago, 2011</li>
+Toy button with similar idea(yelling to make shut up, funny way of delivery)
+<li><a href="https://www.youtube.com/watch?v=bhiVtCewIJU" target="blank">Shut up Button</a></li>
+<li><a href="https://www.youtube.com/watch?v=hww5LQ_-Cn4" target="blank">Donald Trump Button</a>, silly remarks of Donald Trump</li>
+<li><a href="https://www.youtube.com/watch?v=EjrWipZ4g0g" target="blank">Another Trump Button</a></li>
+Hacktivism (art)works with similar idea
+<li><a href="https://twitter.com/burnedyourtweet" target="blank">Burned Your Tweet</a>, (physically) burning trump’s inflammatory tweets in real time</li>
+<li><a href="https://www.behance.net/gallery/29128771/Demagogiaprotektor" target="blank">Demagogiaprotektor</a>, Daniel Cseh, 3d printed middle finger skeleton which is responsive to (political bullshit)remarks, powered by servomotor and Google’s speech recognition capabilities</li>
+</ul>
 
 
 <br/><br/>
