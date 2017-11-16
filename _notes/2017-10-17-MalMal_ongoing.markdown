@@ -2,7 +2,7 @@
 layout: post
 title: MALMAL, ongoing project, 2017
 description: Projection mapping test and MaxMSP
-date: 2017-10-17 16:23:00
+date: 2017-11-16 15:42:00
 ---
 
 <br/>
