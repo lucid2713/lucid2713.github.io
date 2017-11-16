@@ -62,6 +62,33 @@ There are several works which has similar subject as well as works that has real
 <li><a href="https://www.behance.net/gallery/29128771/Demagogiaprotektor" target="blank">Demagogiaprotektor</a>, Daniel Cseh</li>
  : 3d printed middle finger skeleton which is responsive to (political bullshit)remarks, powered by servomotor and Google’s speech recognition capabilities
 </ul>
+<br/><br/>
 
+***
+
+<h4>Developed sketch of the design & process, 14.Nov</h4>
+<br/><br/>
+<div>
+<img class="col three" src="/img/malmal-modified-design.jpg" alt="modified desing sketch" title="modified design sketch"/>
+</div>
+<div class="col three caption">
+Modified design idea sketch using Kinect
+</div>
+<br/><br/>
+
+Instead of the voice input with MaxMSP that I considered last idea sketch, I'll use Kinect for detecting depth & position in order to realize more intuitive interaction.<br/> I thought this way will be better to make audiences figure out to interact with my work as well as to deliver my intention - make bad words shut up and kick out.
+<br/><br/>
+<ul>
+<strong>Control</strong>
+<li>Processor : Processing(image/video), MaxMSP(sound)</li>
+<li>Controller : Kinect(sensing depth and position)</li>
+</ul>
+
+<ol>
+<strong>Task</strong>
+<li>On the screen there is a big mouth with large sound, if there's no people nearby.</li>
+<li>When someone is approaching to the screen, both the size and the volume of mouth are smaller.</li>
+<li>Also, people can drive the mouth out of the screen, chasing it left or right side.</li>
+</ol>
 
 <br/><br/>
