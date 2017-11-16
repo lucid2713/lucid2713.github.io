@@ -91,7 +91,7 @@ Instead of the voice input with MaxMSP that I considered last idea sketch, I'll 
 <li>When someone is approaching to the screen, both the size and the volume of mouth are smaller.</li>
 <li>Also, people can drive the mouth out of the screen, chasing it left or right side.</li>
 </ol>
-
+<br/>
 <ul>
 <strong>To do list</strong>
 <li>Making video interaction with Kinect using processing - now I'm on it</li>
