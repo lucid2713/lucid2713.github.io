@@ -92,6 +92,7 @@ Instead of the voice input with MaxMSP that I considered last idea sketch, I'll 
 <li>Also, people can drive the mouth out of the screen, chasing it left or right side.</li>
 </ol>
 
+<ul>
 <strong>To do list</strong>
 <li>Making video interaction with Kinect using processing - now I'm on it</li>
 <li>Making sound interaction with MaxMSP</li>
