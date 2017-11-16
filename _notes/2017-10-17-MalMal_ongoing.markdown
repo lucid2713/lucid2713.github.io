@@ -94,9 +94,9 @@ Instead of the voice input with MaxMSP that I considered last idea sketch, I'll 
 <br/>
 <ul>
 <strong>To do list</strong>
-<li>Making video interaction with Kinect using processing - now I'm on it</li>
+<li>Making video interaction with Kinect using Processing - now I'm on it</li>
 <li>Making sound interaction with MaxMSP</li>
-<li>Connecting sound processing with video and Kinect</li>
+<li>Connecting sound with video and Kinect</li>
 <li>Projection setting</li>
 </ul>
 
