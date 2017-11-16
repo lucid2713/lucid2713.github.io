@@ -68,14 +68,14 @@ There are several works which has similar subject as well as works that has real
 
 <br/>
 <h4>Developed sketch of the design & process, 14.Nov</h4>
-<br/><br/>
+<br/>
 <div>
 <img class="col three" src="/img/malmal-modified-design.png" alt="modified desing sketch" title="modified design sketch"/>
 </div>
 <div class="col three caption">
 Modified design idea sketch using Kinect
 </div>
-<br/><br/>
+<br/><br/><br/>
 
 Instead of the voice input with MaxMSP that I considered last idea sketch, I'll use Kinect for detecting depth & position in order to realize more intuitive interaction.<br/> I thought this way will be better to make audiences figure out to interact with my work as well as to deliver my intention - make bad words shut up and kick out.
 <br/><br/>
