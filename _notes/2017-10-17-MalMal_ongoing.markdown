@@ -62,10 +62,11 @@ There are several works which has similar subject as well as works that has real
 <li><a href="https://www.behance.net/gallery/29128771/Demagogiaprotektor" target="blank">Demagogiaprotektor</a>, Daniel Cseh</li>
  : 3d printed middle finger skeleton which is responsive to (political bullshit)remarks, powered by servomotor and Google’s speech recognition capabilities
 </ul>
-<br/><br/>
+<br/>
 
 ***
 
+<br/>
 <h4>Developed sketch of the design & process, 14.Nov</h4>
 <br/><br/>
 <div>
