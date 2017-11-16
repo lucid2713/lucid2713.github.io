@@ -70,7 +70,7 @@ There are several works which has similar subject as well as works that has real
 <h4>Developed sketch of the design & process, 14.Nov</h4>
 <br/><br/>
 <div>
-<img class="col three" src="/img/malmal-modified-design.jpg" alt="modified desing sketch" title="modified design sketch"/>
+<img class="col three" src="/img/malmal-modified-design.png" alt="modified desing sketch" title="modified design sketch"/>
 </div>
 <div class="col three caption">
 Modified design idea sketch using Kinect
