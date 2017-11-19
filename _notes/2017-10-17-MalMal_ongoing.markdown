@@ -106,7 +106,7 @@ Instead of the voice input with MaxMSP that I considered last idea sketch, I'll 
 
 <br/>
 <i>19.11.2017</i><br/><br/>
-<h3><strong>Modification</strong></h3><br/><br/>
+<h5><strong>Modification</strong></h5><br/>
 I'm trying to use MaxMSP for the whole process -video, audio and Kinect input, instead of Processing.<br/>
 <ul>
 <strong>Tools for Kinect with MaxMSP</strong>
