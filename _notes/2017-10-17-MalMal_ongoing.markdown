@@ -1,8 +1,8 @@
 ---
 layout: post
-title: MALMAL, ongoing project, 2017
+title: MALMAL, work in progress, 2017
 description: Projection mapping test and MaxMSP
-date: 2017-11-16 15:42:00
+date: 2017-11-19 19:05:00
 ---
 
 <br/>
@@ -98,6 +98,21 @@ Instead of the voice input with MaxMSP that I considered last idea sketch, I'll 
 <li>Making sound interaction with MaxMSP</li>
 <li>Connecting sound with video and Kinect</li>
 <li>Projection setting</li>
+</ul>
+
+<br/>
+
+***
+
+<br/>
+<i>19.11.2017</i><br/>
+<strong>Modification</strong><br/>
+I'm trying to use MaxMSP for the whole process -video, audio and Kinect input, instead of Processing.<br/>
+I failed to
+<ul>
+Tools for Kinect with MaxMSP
+<li><a href="http://synapsekinect.tumblr.com/post/6307752257/maxmspjitter" target="blank">Synapse</a> : I failed to open it on my MacOSX, so cannot use it.</li>
+<li><a href="http://jmpelletier.com/freenect/" target="blank">jit.freenect.grab</a> : what I'm using for it now. I have to set 1)the proper depth value, 2)video moving according to the x/y coordinate.(but is it possible with max?)</li>
 </ul>
 
 <br/><br/>
