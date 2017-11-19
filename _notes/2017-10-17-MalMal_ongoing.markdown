@@ -105,14 +105,13 @@ Instead of the voice input with MaxMSP that I considered last idea sketch, I'll 
 ***
 
 <br/>
-<i>19.11.2017</i><br/>
-<strong>Modification</strong><br/>
+<i>19.11.2017</i><br/><br/>
+<h3><strong>Modification</strong></h3><br/><br/>
 I'm trying to use MaxMSP for the whole process -video, audio and Kinect input, instead of Processing.<br/>
-I failed to
 <ul>
-Tools for Kinect with MaxMSP
+<strong>Tools for Kinect with MaxMSP</strong>
 <li><a href="http://synapsekinect.tumblr.com/post/6307752257/maxmspjitter" target="blank">Synapse</a> : I failed to open it on my MacOSX, so cannot use it.</li>
-<li><a href="http://jmpelletier.com/freenect/" target="blank">jit.freenect.grab</a> : what I'm using for it now. I have to set 1)the proper depth value, 2)video moving according to the x/y coordinate.(but is it possible with max?)</li>
+<li><a href="http://jmpelletier.com/freenect/" target="blank">jit.freenect.grab</a> : what I'm using for it now. I have to set 1) the proper depth value, 2) video moving according to the x/y coordinate. (but is it possible with max?)</li>
 </ul>
 
 <br/><br/>
