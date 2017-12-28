@@ -1,50 +1,51 @@
 ---
 layout: post
-title: Mask
-description: performance(group)
+title: Pingpong Painting
+description: Interactive Installation(Arduino, Kinect, Processing)
 img:
-
 ---
 
-<i>Mask, performance (group), 2016</i>
+<i>Pingpong Painting, Interactive Installation (Arduino, Kinect, Processing), 2015</i>
 
 ***
 
 <br/>
-Mask is composed of series of 2 performances.  <br/>
-One is a sort of dance/movement using sound system made of Arduino and pressure sensor. Three of my friends and I worked together.<br/>
-Another performance is my own solo, using camera, audio system and handout etc.  <br/><br/>
-The theme is about today’s fatigued-society, which makes people put on a mask to conceal themselves and to justify themselves to endure irrational situations and regard them as inevitable conditions. 
-
-
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/396.jpg" alt="during the performance" title="during the performance"/>
+	<img class="col two" src="{{ site.baseurl }}/img/23.jpg" alt="installation design" title="installation design"/>
+	<img class="col one" src="{{ site.baseurl }}/img/22.jpg" alt="game manual" title="game manual"/>
+</div>
+<div class="col three caption">
+	installation design(left) and game manual(right)
 </div>
 
-Group performance Mask was especially motivated by the ‘Müdigkeitsgesellschaft (The Burnout Society)’ by Byung-Chul Hanl and ‘Liquid Times’ by Zygmunt Bauman. In a society where achievementism, and successism are prevalent, our ‘body’ is no longer a part of ‘ourself’ but rather a tool for us to exploit and use efficiently. Thus through gestures, we wanted to express our cries about the reality. A reality in which our mind has to brainwash itself with the forced positivity and possibility so that we cannot (or must not) feel tired and exhausted. 
-<br/><br/>
-The four participants discussed about the topic together and expressed their feelings of fatigue and obsession based on their experiences. Three performed movements, and one implemented the sound system. Based on discussion, we created motion, sound effects, background music, and implemented the sensor on the floor. When moving at one’s position, each sound effect on the floor matches each theme of movement. The awkward sounds of each of performer were aggravated by how we move, or in reverse, our actions became restrained by the sounds.
+
 <br/>
+
+Worked with two other colleagues as a study project. We used pingpong racket and balls but how the game was played is much similar to squash. <br/>
+The concept is ‘playing game, working out, and interactive drawing at the same time’. <br/>
+When participants hit the ball towards the wall, a sensor attached on racket works and the Kinect detects the position of the ball. These sensed data are converted to drawing and is projected on the wall in real time. There is a time limit so after the game is done, participants can check and receive the outcome in drawing. <br/>
 
 #### I contributed to
 <ul>
-	<li>project planning, composition, making devices, and performance.</li>
+<li>image design, coding Processing and installation
+</li>
 </ul>
 
-
 <div class="img_row">
-<img class="col one" src="{{ site.baseurl }}/img/397.jpg" alt="performance image1" title="performance image1"/>
-	<img class="col two" src="{{ site.baseurl }}/img/398.jpg" alt="performance image2" title="performance image2"/>
+	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="outcome image1" title="outcome image1"/>
+	<img class="col one" src="{{ site.baseurl }}/img/25.jpg" alt="outcome image2" title="outcome image2"/>
+	<img class="col one" src="{{ site.baseurl }}/img/24.jpg" alt="outcome image3" title="outcome image3"/>
 </div>
-
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/393.jpg" alt="pressure sensors on the floor" title="pressure sensors on the floor"/>
-</div>
-
-<img class="col three" src="/img/399.jpg" alt="during the performance" title="during the performance"/>
-
 <div class="col three caption">
-	Exhibition 'Goodie', IdeaFactory in Seoul National University, Korea, 2016
+	outcomes of the game
 </div>
 
-<br/><br/><br/>
+
+<br/><br/>
+<p align="middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L4B_kiCrjv4" frameborder="0" allowfullscreen></iframe>
+</p>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/26.jpg" alt="logo" title="logo"/>
+</div>
+<br/>

@@ -1,61 +1,47 @@
 ---
 layout: post
-title: Mask
-description: performance(solo)
-img: /img/3.jpg
-
+title: Come Closer
+description: Interactive Installation(Arduino)
+img: /img/comecloser1.png
 ---
 
-<i>Mask, performance (solo), 2016</i>
+<i>Come Closer, Interactive Installation (Arduino), 2017</i>
 
 ***
 
-
 <br/>
-Mask is composed of series of 2 performances. <br/>
-One is a sort of dance/movement using sound system made of Arduino and pressure sensor. Three of my friends and I worked together. <br/>
-Another performance is my own solo, using camera, audio system and handout etc. <br/><br/>
-The theme is about today’s fatigued-society, which makes people put on a mask to conceal themselves and to justify themselves to endure irrational situations and regard them as inevitable conditions. 
-<br/>
+<p align="middle">
+<iframe src="https://player.vimeo.com/video/230491558" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</p>
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/31.jpg" alt="text in resume 1" title="text in resume 1"/>
-	<img class="col one" src="{{ site.baseurl }}/img/32.jpg" alt="text in resume 2" title="text in resume 2"/>
-	<img class="col one" src="{{ site.baseurl }}/img/33.jpg" alt="text in resume 3" title="text in resume 3"/>
+
+As an interactive installation using leds, infrared sensor and arduino, this work was done for final show of 4 weeks workshop ‘<a href="http://schoolofma.org/studies-in-vibration/" target="blank">Studies in Vibration</a>’ in Berlin on May, 2017. The workshop was one of programs of <a href="http://schoolofma.org" target="blank">School of MA</a>(machines, making & make-believe), which is an independent art and technology school based on Berlin, Germany. <br/>
+
+During these 4 weeks, with other participants from all over the world, I had taken lectures about physical phenomena related to vibration, which especially have connection with sound and light. <br/>
+
+I was focused on the vibration as a reaction among each other, so wanted to express connectedness between human and non human beings.
+Thus when a person come closer to the balloon flowers, they start to greets him/she by emitting light softly. <br/>
+
+Every moments, our movement makes vibration whether we are recognize or not. And this vibration reaches somewhere. Thus although there is no touch or contact between 2 objects, the connection takes place indeed.
+
+
+
+<div>
+<img class="col three" src="/img/comecloser5.jpeg" alt="picture of come closer, installation" title="picture of come closer, installation"/>
 </div>
 <div class="col three caption">
-	Handouts for the performance. The text was collected from the resumes (CV) and cover letters for employment,  <br/>
-	written by young people currently in Korea, which are excessively self-promoting.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/35.jpg" alt="" title="during the performance"/>
+
 </div>
 
-<br/>
-The solo performance Mask was motivated by situations that most young people (in my age group) are currently facing in today’s society. In the worst job market situation, to win the cut-throat competition, young people are forced to show off, package, and sell themselves through only one sheet of cover letter. It doesn’t matter who we really are, or rather, people have to hide or cover up their individuality to make themselves perfectly fit in to this unstable and changeable society. 
+
 <br/><br/>
-It’s awfully painful to confront, criticize, dig into, and speak out against this matter, as I’m also one of those who are in that situation and have to find and take my place in the society. Nevertheless, I think it is much more distressing not to see what is underneath the surface and to just ignore the problem. So we should speak out so that we don’t lose ourselves and should not replicate the same society by being integrated into it.
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/36.jpg" alt="exhibition image1" title="exhibition image1"/>
-	<img class="col one" src="{{ site.baseurl }}/img/37.jpg" alt="exhibition image2" title="exhibition image2"/>
+<div>
+<p align="middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ypGv_It0LKk" frameborder="0" allowfullscreen></iframe>
+</p>
 </div>
-
-<div class="img_row">
-<img class="col one" src="{{ site.baseurl }}/img/390.jpg" alt="performance image1" title="performance image1"/>
-	<img class="col two" src="{{ site.baseurl }}/img/39.jpg" alt="performance image2" title="performance image2"/>
-</div>
-
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/392.jpg" alt="performance image3" title="performance image3"/>
-	<img class="col one" src="{{ site.baseurl }}/img/394.jpg" alt="performance image4" title="performance image4"/>
-	<img class="col one" src="{{ site.baseurl }}/img/395.jpg" alt="performance image5" title="performance image5"/>
-</div>
-
 <div class="col three caption">
-	Exhibition 'Goodie', IdeaFactory in Seoul National University, Korea, 2016
+	Final show of ‘Studies in Vibration’, Spektrum, Berlin, Germany, 2017
 </div>
-
 
 <br/><br/><br/>

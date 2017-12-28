@@ -1,42 +1,56 @@
 ---
 layout: post
-title: SNU hippie generation
-description: performance about occupying the president's lawn in SNU
-img: /img/8.jpg
-
+title: MALMAL
+description: Interactive app for iOS devices
+img: /img/41.png
+redirect: https://projectintheclass.github.io/MinApp/
 ---
 
-<i>SNU hippie generation, performance, 2012</i>
+Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 
-***
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-<br/>
-<img class="col three" src="/img/87.jpg" alt="posters at final term exhibition" title="posters at final term exhibition"/>
-
-<div class="col three caption">
-	Poster and comics
-</div>
-<br/>
-
-One of my friend and I worked with it. The concept of this performance was hippie, kitsch, comic, and occupancy. <br/>
-There was a story (believe it or not) about the central lawn in my university. Long ago, when students sat down on this lawn, playing and having a rest, the school president at that time yelled at them "Get out of *my lawn* !" <br/>
-Therefore the lawn has been called “the president’s lawn”, and the place is always restricted for entrance even until now. Thus we intentionally went in the lawn and did some funny acts.
+	---
+	layout: post
+	title: Project
+	description: a project with a background image
+	img: /img/12.jpg
+	---
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/84.jpg" alt="" title="Look at the tree"/>
-	<img class="col one" src="{{ site.baseurl }}/img/85.jpg" alt="" title="set up the picnic"/>
-	<img class="col one" src="{{ site.baseurl }}/img/86.jpg" alt="" title="playing games"/>
+	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Performance about occupying the president's lawn in the university.
+	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/83.jpg" alt="" title="jumping around"/>
+	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	The building behind is the administration building, where the president stays.
+	This image can also have a caption. It's like magic.
+</div>
+
+You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+
+
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
 
 <br/><br/><br/>
+
+
+The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
+
+	<div class="img_row">
+	  <img class="col two" src="/img/6.jpg"/>
+	  <img class="col one" src="/img/11.jpg"/>
+	</div>

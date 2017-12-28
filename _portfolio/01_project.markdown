@@ -1,47 +1,21 @@
 ---
 layout: post
-title: Come Closer
-description: Interactive Installation(Arduino)
-img: /img/comecloser1.png
+title: The future, outdated
+description: A robot made of electronic waste
+img:
 ---
 
-<i>Come Closer, Interactive Installation (Arduino), 2017</i>
+<i>The future outdated, Installation (Electronic wastes, Arduino, Speaker, iPad), 2017</i>
 
 ***
 
 <br/>
+An installation composed with electronic wastes. It looks like an outdated, abandoned and useless robot, once had been considered as our future. Meanwhile, it can be the future of newly-born robots which will be discarded soon after.
+<br/>
+
+<br/>
 <p align="middle">
-<iframe src="https://player.vimeo.com/video/230491558" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/248985117" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
-
-
-As an interactive installation using leds, infrared sensor and arduino, this work was done for final show of 4 weeks workshop ‘<a href="http://schoolofma.org/studies-in-vibration/" target="blank">Studies in Vibration</a>’ in Berlin on May, 2017. The workshop was one of programs of <a href="http://schoolofma.org" target="blank">School of MA</a>(machines, making & make-believe), which is an independent art and technology school based on Berlin, Germany. <br/>
-
-During these 4 weeks, with other participants from all over the world, I had taken lectures about physical phenomena related to vibration, which especially have connection with sound and light. <br/>
-
-I was focused on the vibration as a reaction among each other, so wanted to express connectedness between human and non human beings.
-Thus when a person come closer to the balloon flowers, they start to greets him/she by emitting light softly. <br/>
-
-Every moments, our movement makes vibration whether we are recognize or not. And this vibration reaches somewhere. Thus although there is no touch or contact between 2 objects, the connection takes place indeed.
-
-
-
-<div>
-<img class="col three" src="/img/comecloser5.jpeg" alt="picture of come closer, installation" title="picture of come closer, installation"/>
-</div>
-<div class="col three caption">
-
-</div>
-
 
 <br/><br/>
-<div>
-<p align="middle">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ypGv_It0LKk" frameborder="0" allowfullscreen></iframe>
-</p>
-</div>
-<div class="col three caption">
-	Final show of ‘Studies in Vibration’, Spektrum, Berlin, Germany, 2017
-</div>
-
-<br/><br/><br/>

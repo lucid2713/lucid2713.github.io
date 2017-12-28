@@ -1,56 +1,49 @@
 ---
 layout: post
-title: MALMAL
-description: Interactive app for iOS devices
-img: /img/41.png
-redirect: https://projectintheclass.github.io/MinApp/
+title: Agreed.
+description: Installation (Arduino, Hidden camera, Web server, 3D printed parts)
+img: /img/16.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+<i>Agreed. Installation(Arduino, Hidden camera, Web server, 3D printed parts), 2016</i>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+***
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+<br/>
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/12.jpg" alt="" title="parts"/>
+	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="poster image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/17.png" alt="" title="drilling"/>
+</div>
+
+
+Worked with two other friends. We focused on how people easily agree to providing their personal information these days. <br/>
+We installed a candy machine with a built-in camera hidden on the outside. There was a very light and pale sign next to the machine that read ‘If you agree to taking pictures of you, turn the handle and get candies’. So when people turned the handle of the machine to get candies, the camera secretly took pictures of them. Most audience didn’t see or notice the sign and just easily turned the knob. <br/>
+In the other side of the room, there was a screen which showed these photos, thus people could find their faces after enjoying candies. 
+<br/>
+
+#### I contributed to
+<ul>
+	<li>installing the machine, coding Arduino and camera setting</li>
+</ul>
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/14.jpg" alt="" title="captured images on screen"/>
+	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="candy machine within hidden camera"/>
 </div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/13.jpg" alt="" title="exhibition image"/>
 </div>
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	Amway Young Artist Project, Amway Art Museum, Seongnam-si, Korea, 2016
+
 </div>
 
+<br/><br/>
+<p align="middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RivHmjZklTI" frameborder="0" allowfullscreen></iframe>
+</p>
 
 <br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>

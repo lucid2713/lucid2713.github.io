@@ -1,49 +1,61 @@
 ---
 layout: post
-title: Agreed.
-description: Installation (Arduino, Hidden camera, Web server, 3D printed parts)
-img: /img/16.png
+title: Mask
+description: performance(solo)
+img: /img/3.jpg
+
 ---
 
-<i>Agreed. Installation(Arduino, Hidden camera, Web server, 3D printed parts), 2016</i>
+<i>Mask, performance (solo), 2016</i>
 
 ***
 
+
 <br/>
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/12.jpg" alt="" title="parts"/>
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="poster image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/17.png" alt="" title="drilling"/>
-</div>
-
-
-Worked with two other friends. We focused on how people easily agree to providing their personal information these days. <br/>
-We installed a candy machine with a built-in camera hidden on the outside. There was a very light and pale sign next to the machine that read ‘If you agree to taking pictures of you, turn the handle and get candies’. So when people turned the handle of the machine to get candies, the camera secretly took pictures of them. Most audience didn’t see or notice the sign and just easily turned the knob. <br/>
-In the other side of the room, there was a screen which showed these photos, thus people could find their faces after enjoying candies. 
+Mask is composed of series of 2 performances. <br/>
+One is a sort of dance/movement using sound system made of Arduino and pressure sensor. Three of my friends and I worked together. <br/>
+Another performance is my own solo, using camera, audio system and handout etc. <br/><br/>
+The theme is about today’s fatigued-society, which makes people put on a mask to conceal themselves and to justify themselves to endure irrational situations and regard them as inevitable conditions. 
 <br/>
 
-#### I contributed to
-<ul>
-	<li>installing the machine, coding Arduino and camera setting</li>
-</ul>
-
-
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/14.jpg" alt="" title="captured images on screen"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="candy machine within hidden camera"/>
-</div>
-
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/13.jpg" alt="" title="exhibition image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/31.jpg" alt="text in resume 1" title="text in resume 1"/>
+	<img class="col one" src="{{ site.baseurl }}/img/32.jpg" alt="text in resume 2" title="text in resume 2"/>
+	<img class="col one" src="{{ site.baseurl }}/img/33.jpg" alt="text in resume 3" title="text in resume 3"/>
 </div>
 <div class="col three caption">
-	Amway Young Artist Project, Amway Art Museum, Seongnam-si, Korea, 2016
-
+	Handouts for the performance. The text was collected from the resumes (CV) and cover letters for employment,  <br/>
+	written by young people currently in Korea, which are excessively self-promoting.
+</div>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/35.jpg" alt="" title="during the performance"/>
 </div>
 
+<br/>
+The solo performance Mask was motivated by situations that most young people (in my age group) are currently facing in today’s society. In the worst job market situation, to win the cut-throat competition, young people are forced to show off, package, and sell themselves through only one sheet of cover letter. It doesn’t matter who we really are, or rather, people have to hide or cover up their individuality to make themselves perfectly fit in to this unstable and changeable society. 
 <br/><br/>
-<p align="middle">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RivHmjZklTI" frameborder="0" allowfullscreen></iframe>
-</p>
+It’s awfully painful to confront, criticize, dig into, and speak out against this matter, as I’m also one of those who are in that situation and have to find and take my place in the society. Nevertheless, I think it is much more distressing not to see what is underneath the surface and to just ignore the problem. So we should speak out so that we don’t lose ourselves and should not replicate the same society by being integrated into it.
+
+
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/36.jpg" alt="exhibition image1" title="exhibition image1"/>
+	<img class="col one" src="{{ site.baseurl }}/img/37.jpg" alt="exhibition image2" title="exhibition image2"/>
+</div>
+
+<div class="img_row">
+<img class="col one" src="{{ site.baseurl }}/img/390.jpg" alt="performance image1" title="performance image1"/>
+	<img class="col two" src="{{ site.baseurl }}/img/39.jpg" alt="performance image2" title="performance image2"/>
+</div>
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/392.jpg" alt="performance image3" title="performance image3"/>
+	<img class="col one" src="{{ site.baseurl }}/img/394.jpg" alt="performance image4" title="performance image4"/>
+	<img class="col one" src="{{ site.baseurl }}/img/395.jpg" alt="performance image5" title="performance image5"/>
+</div>
+
+<div class="col three caption">
+	Exhibition 'Goodie', IdeaFactory in Seoul National University, Korea, 2016
+</div>
+
 
 <br/><br/><br/>

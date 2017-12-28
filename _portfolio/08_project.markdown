@@ -1,46 +1,38 @@
 ---
 layout: post
-title: Color Your Voice
-description: Interactive Installation(MAX MSP, Processing)
-img:
+title: MeatTimes
+description: video, drawing, interactive things
+img: /img/54.png
 ---
 
-<i>Color your voice, Interactive Installation (MAX MSP, Processing), 2015</i>
+<i>Meat Times, Series of video, drawing, interactive things, 2013-2016</i>
 
 ***
 
 <br/>
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/71.jpg" alt="" title="colored"/>
-	<img class="col one" src="{{ site.baseurl }}/img/75.jpg" alt="" title="uncolored"/>
-	<img class="col one" src="{{ site.baseurl }}/img/72.jpg" alt="" title="colored"/>
-</div>
-<div class="col three caption">
-	Outcome images. before color change (center, gray) and after (both side, colored)
-</div>
-<br/>
-
-Worked with two other colleagues. <br/>
-The concept is ‘express yourself by identifying your own color’. When participants speak through the installed microphone, computer receives data of voices such as frequency and tone. According to these figures, each face captured by the webcam is colored individually. 
-<br/>
-Participants can pick one of cards on the board they’re interested in, then read the texts written on the back of it. The recitation becomes individual color. 
-<br/>
-
-#### I contributed to
-<ul>
-	<li>design and coding by Processing</li>
-</ul>
-
-
-<img class="col three" src="/img/74.jpg" alt="color cards and ideation process" title="color cards and ideation note"/>
-
-<div class="col three caption">
-	Cards board and ideation note
-</div>
-
-<br/><br/>
 <p align="middle">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mUlZvgio3wE" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/205177007" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
+
+I have had interest in the cruelty of ‘factory-processed meat’ for years. So I keep thinking about this theme and try various ways of expression.  <br/>
+I just tinkered with it through video, interactive materials, and animation so far, but would like to develop them into more complete works.
+
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/52.jpg" alt="processing work" title="processing work"/>
+	<img class="col one" src="{{ site.baseurl }}/img/53.jpg" alt="processing arduino work" title="processing arduino work"/>
+</div>
+
+<div class="col three caption">
+	works by Processing and Arduino, 2013
+</div>
+
+<br/>
+<p align="middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/puFEqbCy5nM" frameborder="0" allowfullscreen></iframe>
+<div class="col three caption">
+	for 3Dmax practice in 3D-animation class, 2013
+</div>
+</p>
+
 
 <br/><br/><br/>

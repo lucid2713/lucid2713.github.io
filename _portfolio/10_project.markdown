@@ -1,46 +1,46 @@
 ---
 layout: post
-title: Starry Night
-description: Interactive Installation(Leap Motion, Processing)
+title: Color Your Voice
+description: Interactive Installation(MAX MSP, Processing)
 img:
 ---
 
-<i>Starry Night, Interactive Installation (Leap Motion, Processing), 2015</i>
+<i>Color your voice, Interactive Installation (MAX MSP, Processing), 2015</i>
 
 ***
 
 <br/>
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/61.png" alt="example image1" title="example image1"/>
-	<img class="col one" src="{{ site.baseurl }}/img/62.png" alt="example image2" title="example image2"/>
-	<img class="col one" src="{{ site.baseurl }}/img/63.png" alt="example image3" title="example image3"/>
+	<img class="col one" src="{{ site.baseurl }}/img/71.jpg" alt="" title="colored"/>
+	<img class="col one" src="{{ site.baseurl }}/img/75.jpg" alt="" title="uncolored"/>
+	<img class="col one" src="{{ site.baseurl }}/img/72.jpg" alt="" title="colored"/>
 </div>
+<div class="col three caption">
+	Outcome images. before color change (center, gray) and after (both side, colored)
+</div>
+<br/>
 
-
-Using leap motion, we can sweep out stars of the night sky in the screen toward two kinds of clouds. One is pink-colored cloud (left) and the other is gray-colored could (right). When cloud gets heavy, it falls down as flowered-rain (pink) or dust-rain (gray). <br/>
-Worked with three other colleagues as a project in the Processing class. <br/>
+Worked with two other colleagues. <br/>
+The concept is ‘express yourself by identifying your own color’. When participants speak through the installed microphone, computer receives data of voices such as frequency and tone. According to these figures, each face captured by the webcam is colored individually. 
+<br/>
+Participants can pick one of cards on the board they’re interested in, then read the texts written on the back of it. The recitation becomes individual color. 
+<br/>
 
 #### I contributed to
 <ul>
-<li>image design and coding Processing
-</li>
+	<li>design and coding by Processing</li>
 </ul>
 
-<br/>
-<p align="middle">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gBZF0AGYk6o" frameborder="0" allowfullscreen></iframe>
-</p>
 
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/64.jpg" alt="settings" title="settings"/>
-	<img class="col one" src="{{ site.baseurl }}/img/66.png" alt="leap motion" title="leap motion"/>
-</div>
+<img class="col three" src="/img/74.jpg" alt="color cards and ideation process" title="color cards and ideation note"/>
 
 <div class="col three caption">
-	Installation settings and the leap motion we used
+	Cards board and ideation note
 </div>
 
+<br/><br/>
+<p align="middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mUlZvgio3wE" frameborder="0" allowfullscreen></iframe>
+</p>
 
 <br/><br/><br/>
