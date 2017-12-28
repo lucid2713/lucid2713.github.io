@@ -2,7 +2,7 @@
 layout: post
 title: The future, outdated
 description: A robot made of electronic waste
-img: /img/tfo1.jpg
+img: /img/tfo4.JPG
 ---
 
 <i>The future outdated, Installation (Electronic wastes, Arduino, Speaker, iPad), 2017</i>
@@ -21,10 +21,10 @@ img: /img/tfo1.jpg
 	OrbitFest, Synagoge Groningen, Groningen, Netherlands, 2017
 </div>
 
-<br/>
+<br/><br/>
 An installation composed with electronic wastes. It looks like an outdated, abandoned and useless robot, once had been considered as our future. Meanwhile, it can be the future of newly-born robots which will be discarded soon after.
 
-<br/><br/>
+<br/>
 <p align="middle">
 <iframe src="https://player.vimeo.com/video/248985117" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
