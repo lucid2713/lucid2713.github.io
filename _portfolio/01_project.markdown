@@ -21,6 +21,8 @@ img: /img/tfo4.JPG
 	OrbitFest, Synagoge Groningen, Groningen, Netherlands, 2017
 </div>
 
+***
+
 <br/><br/>
 An installation composed with electronic wastes. It looks like an outdated, abandoned and useless robot, once had been considered as our future. Meanwhile, it can be the future of newly-born robots which will be discarded soon after.
 
