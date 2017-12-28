@@ -29,5 +29,6 @@ An installation composed with electronic wastes. It looks like an outdated, aban
 <p align="middle">
 <iframe src="https://player.vimeo.com/video/248985117" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
-
+<br/>
+<i>helped by Jurjen Galema</i>
 <br/><br/><br/>
