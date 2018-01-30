@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Electricity Matters, workshop at STEIM
+title: Electricity Matters, workshop at STEIM by Nataliya Petkova
 description: Participating 4days analog circuit instrument making workshop
 date: 2017-12-04 00:00:00
 ---
@@ -28,4 +28,4 @@ date: 2017-12-04 00:00:00
 
 
 <br/><br/>
-### with Nataliya Petkova(Instructor)
+<!-- ### with Nataliya Petkova(Instructor) -->
